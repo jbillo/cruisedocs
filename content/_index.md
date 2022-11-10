@@ -31,3 +31,5 @@ This website is being built in a slightly different way than some of my other pr
 * [Geekdocs](https://geekdocs.de/) Hugo theme
 * GitHub Pages (with GitHub Actions to publish)
 * GitHub Codespaces
+
+GitHub in particular allows viewers to propose edits to pages by clicking the "Edit Page" button in the top right. If you're familiar with the pull request model, I welcome contributions!
