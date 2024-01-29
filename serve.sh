@@ -4,7 +4,10 @@
 # export GITHUB_URL=""
 
 if [[ -z "${GITHUB_URL}" ]]; then
-    echo "WARNING: export GITHUB_URL starting with HTTPS if needed"
+    echo "WARNING: in Codespaces, export GITHUB_URL starting with HTTPS if needed"
+    extra_params=""
+else
+    extra_params="--baseUrl=\"${GITHUB_URL}\" --appendPort=false"
 fi
 
-hugo server -D --baseUrl="${GITHUB_URL}" --appendPort=false
+hugo server -D ${extra_params}
