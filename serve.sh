@@ -7,7 +7,7 @@ if [[ -z "${GITHUB_URL}" ]]; then
     echo "WARNING: in Codespaces, export GITHUB_URL starting with HTTPS if needed"
     extra_params=""
 else
-    extra_params="--baseUrl=\"${GITHUB_URL}\" --appendPort=false"
+    extra_params="--baseURL=${GITHUB_URL} --appendPort=false"
 fi
 
 hugo server -D ${extra_params}
