@@ -4,6 +4,12 @@ resources:
     - name: notice-2022-04-10-healthy-at-sea
       src: "notice-2022-04-10-healthy-at-sea.jpg"
       title: ""
+    - name: notice-2022-04-10-healthy-at-sea-port-requirements
+      src: "notice-2022-04-10-healthy-at-sea-port-requirements.jpeg"
+      title: ""      
+    - name: notice-2022-04-10-healthy-at-sea-port-requirements-2
+      src: "notice-2022-04-10-healthy-at-sea-port-requirements-2.jpeg"
+      title: ""            
     - name: notice-2022-04-10-select-anytime-dining
       src: "notice-2022-04-10-select-anytime-dining.jpg"
       title: ""
@@ -25,7 +31,11 @@ resources:
 
 {{< img name="notice-2022-04-10-healthy-at-sea" size="small" lazy=false >}}
 
-This letter was provided in the initial set of documentation in the stateroom.
+{{< img name="notice-2022-04-10-healthy-at-sea-port-requirements" size="small" lazy=false >}}
+
+{{< img name="notice-2022-04-10-healthy-at-sea-port-requirements-2" size="small" lazy=false >}}
+
+These letters were provided in the initial set of documentation in the stateroom.
 
 ---
 
