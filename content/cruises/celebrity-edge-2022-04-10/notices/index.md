@@ -6,28 +6,28 @@ resources:
       title: ""
     - name: notice-2022-04-10-healthy-at-sea-port-requirements
       src: "notice-2022-04-10-healthy-at-sea-port-requirements.jpeg"
-      title: ""      
+      title: ""
     - name: notice-2022-04-10-healthy-at-sea-port-requirements-2
       src: "notice-2022-04-10-healthy-at-sea-port-requirements-2.jpeg"
-      title: ""         
+      title: ""
     - name: notice-2022-04-10-crew-covid-19-testing
       src: "notice-2022-04-10-crew-covid-19-testing.jpeg"
-      title: ""              
+      title: ""
     - name: notice-2022-04-10-select-anytime-dining
       src: "notice-2022-04-10-select-anytime-dining.jpg"
       title: ""
     - name: notice-2022-04-13-grand-cayman-tender
       src: "notice-2022-04-13-grand-cayman-tender.jpg"
-      title: ""      
+      title: ""
     - name: notice-2022-04-17-disembarkation-info
       src: "notice-2022-04-17-disembarkation-info.jpeg"
-      title: ""      
+      title: ""
     - name: notice-2022-04-17-disembarkation-info-2
       src: "notice-2022-04-17-disembarkation-info-2.jpeg"
-      title: ""            
+      title: ""
     - name: notice-2022-04-17-disembarkation-health
       src: "notice-2022-04-17-disembarkation-health.jpeg"
-      title: ""             
+      title: ""
 ---
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
