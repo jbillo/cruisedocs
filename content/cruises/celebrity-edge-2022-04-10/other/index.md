@@ -28,6 +28,12 @@ resources:
     - name: other-2022-04-11-ship-tours-promo
       src: "other-2022-04-11-ship-tours-promo.jpeg"
       title: ""         
+    - name: other-2022-04-12-futurecruise-promo
+      src: "other-2022-04-12-futurecruise-promo.jpeg"
+      title: ""               
+    - name: other-2022-04-12-futurecruise-promo-2
+      src: "other-2022-04-12-futurecruise-promo-2.jpeg"
+      title: ""            
     - name: other-2022-04-13-costa-maya-shoreex-promo
       src: "other-2022-04-13-costa-maya-shoreex-promo.jpeg"
       title: ""            
@@ -67,6 +73,13 @@ Promotional material and order form for shore excursions in cabin on Day 1.
 {{< img name="other-2022-04-11-ship-tours-promo" size="small" lazy=false >}}
 
 Two-sided flyer advertising discounted tours for Costa Maya and Cozumel, Mexico, as well as the two available ship tours at no discount.
+
+## 2022-04-12: FutureCruise Promotional Flyer
+
+{{< img name="other-2022-04-12-futurecruise-promo" size="small" lazy=false >}}
+{{< img name="other-2022-04-12-futurecruise-promo-2" size="small" lazy=false >}}
+
+Two-sided flyer advertising book-on-board promotions.
 
 ## 2022-04-13: Costa Maya Shore Excursions Promotional Flyer
 
