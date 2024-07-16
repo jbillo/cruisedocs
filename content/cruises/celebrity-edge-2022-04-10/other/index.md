@@ -55,6 +55,9 @@ resources:
     - name: other-2022-04-13-costa-maya-shoreex-promo
       src: "other-2022-04-13-costa-maya-shoreex-promo.jpeg"
       title: ""
+    - name: other-2022-04-14-cozumel-shoreex-promo
+      src: "other-2022-04-14-cozumel-shoreex-promo.jpeg"
+      title: ""
 
 ---
 
@@ -117,3 +120,7 @@ Two-sided flyer advertising book-on-board promotions.
 ## 2022-04-13: Costa Maya Shore Excursions Promotional Flyer
 
 {{< img name="other-2022-04-13-costa-maya-shoreex-promo" size="small" lazy=false >}}
+
+## 2022-04-14: Cozumel Shore Excursions Promotional Flyer
+
+{{< img name="other-2022-04-14-cozumel-shoreex-promo" size="small" lazy=false >}}
