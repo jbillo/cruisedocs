@@ -13,6 +13,9 @@ disablePathToLower = true
 # Required if you want to render robots.txt template
 enableRobotsTXT = true
 
+# Increase timeout to 15m (900s) since we render some large images on a GitHub Actions runner
+timeout = '900s'
+
 # Needed for mermaid shortcodes
 [markup]
   [markup.goldmark.renderer]
