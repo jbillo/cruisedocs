@@ -9,7 +9,10 @@ resources:
       title: ""      
     - name: notice-2022-04-10-healthy-at-sea-port-requirements-2
       src: "notice-2022-04-10-healthy-at-sea-port-requirements-2.jpeg"
-      title: ""            
+      title: ""         
+    - name: notice-2022-04-10-crew-covid-19-testing
+      src: "notice-2022-04-10-crew-covid-19-testing.jpeg"
+      title: ""              
     - name: notice-2022-04-10-select-anytime-dining
       src: "notice-2022-04-10-select-anytime-dining.jpg"
       title: ""
@@ -22,6 +25,9 @@ resources:
     - name: notice-2022-04-17-disembarkation-info-2
       src: "notice-2022-04-17-disembarkation-info-2.jpeg"
       title: ""            
+    - name: notice-2022-04-17-disembarkation-health
+      src: "notice-2022-04-17-disembarkation-health.jpeg"
+      title: ""             
 ---
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
@@ -36,6 +42,10 @@ resources:
 {{< img name="notice-2022-04-10-healthy-at-sea-port-requirements-2" size="small" lazy=false >}}
 
 These letters were provided in the initial set of documentation in the stateroom.
+
+{{< img name="notice-2022-04-10-crew-covid-19-testing" size="small" lazy=false >}}
+
+This letter was provided at embarkation time.
 
 ---
 
@@ -61,3 +71,7 @@ This notice was delivered with the daily on the evening of 2022-04-12.
 {{< img name="notice-2022-04-17-disembarkation-info-2" size="small" lazy=false >}}
 
 This notice was delivered a day prior to disembarkation.
+
+## 2022-04-17: Disembarkation Health Letter
+
+{{< img name="notice-2022-04-17-disembarkation-health" size="small" lazy=false >}}
