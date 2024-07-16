@@ -58,6 +58,12 @@ resources:
     - name: other-2022-04-14-cozumel-shoreex-promo
       src: "other-2022-04-14-cozumel-shoreex-promo.jpeg"
       title: ""
+    - name: other-2022-04-16-futurecruise-promo
+      src: "other-2022-04-16-futurecruise-promo.jpeg"
+      title: ""
+    - name: other-2022-04-16-futurecruise-promo-2
+      src: "other-2022-04-16-futurecruise-promo-2.jpeg"
+      title: ""
 
 ---
 
@@ -124,3 +130,8 @@ Two-sided flyer advertising book-on-board promotions.
 ## 2022-04-14: Cozumel Shore Excursions Promotional Flyer
 
 {{< img name="other-2022-04-14-cozumel-shoreex-promo" size="small" lazy=false >}}
+
+## 2022-04-16: FutureCruise Promotional Flyer
+
+{{< img name="other-2022-04-16-futurecruise-promo" size="small" lazy=false >}}
+{{< img name="other-2022-04-16-futurecruise-promo-2" size="small" lazy=false >}}
