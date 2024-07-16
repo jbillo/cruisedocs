@@ -21,10 +21,16 @@ resources:
       title: ""                
     - name: other-2022-04-10-spa-price-list-2
       src: "other-2022-04-10-spa-price-list-2.jpeg"
-      title: ""            
+      title: ""   
+    - name: other-2022-04-10-nassau-shoreex-promo
+      src: "other-2022-04-10-nassau-shoreex-promo.jpeg"
+      title: ""                    
     - name: other-2022-04-11-mexico-shoreex-promo
       src: "other-2022-04-11-mexico-shoreex-promo.jpeg"
       title: ""      
+    - name: other-2022-04-11-grand-cayman-shoreex-promo
+      src: "other-2022-04-11-grand-cayman-shoreex-promo.jpeg"
+      title: ""           
     - name: other-2022-04-11-ship-tours-promo
       src: "other-2022-04-11-ship-tours-promo.jpeg"
       title: ""         
@@ -66,6 +72,10 @@ Price list from the spa provided on Day 1.
 
 Promotional material and order form for shore excursions in cabin on Day 1.
 
+## 2022-04-10: Nassau Shore Excursions Promotional Flyer
+
+{{< img name="other-2022-04-10-nassau-shoreex-promo" size="small" lazy=false >}}
+
 ## 2022-04-11: Mexico Shore Excursions and Ship Tours Promotional Flyer
 
 {{< img name="other-2022-04-11-mexico-shoreex-promo" size="small" lazy=false >}}
@@ -73,6 +83,10 @@ Promotional material and order form for shore excursions in cabin on Day 1.
 {{< img name="other-2022-04-11-ship-tours-promo" size="small" lazy=false >}}
 
 Two-sided flyer advertising discounted tours for Costa Maya and Cozumel, Mexico, as well as the two available ship tours at no discount.
+
+## 2022-04-11: George Town, Grand Cayman Shore Excursions Promotional Flyer
+
+{{< img name="other-2022-04-11-grand-cayman-shoreex-promo" size="small" lazy=false >}}
 
 ## 2022-04-12: FutureCruise Promotional Flyer
 
