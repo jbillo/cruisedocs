@@ -24,7 +24,7 @@ title: Celebrity Edge, 2022-04-10
     <td>2022-04-11</td><td>Nassau, Bahamas</td><td>07:00</td><td>14:00</td>
 </tr>
 <tr>
-    <td>2022-04-12</td><td>At Sea</td>
+    <td>2022-04-12</td><td colspan="3">At Sea</td>
 </tr>
 <tr>
     <td>2022-04-13</td><td>George Town, Grand Cayman</td><td>07:00</td><td>16:00</td>
@@ -36,7 +36,7 @@ title: Celebrity Edge, 2022-04-10
     <td>2022-04-15</td><td>Cozumel, Mexico</td><td>07:00</td><td>16:00</td>
 </tr>
 <tr>
-    <td>2022-04-16</td><td>At Sea</td>
+    <td>2022-04-16</td><td colspan="3">At Sea</td>
 </tr>
 <tr>
     <td>2022-04-17</td><td>Fort Lauderdale, Florida</td><td>07:00</td><td>&nbsp;</td>
