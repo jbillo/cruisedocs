@@ -14,6 +14,7 @@ This is an experimental project to catalog various cruise dailies, notices, menu
 
 * Knowing what the entertainment schedule is on a similar sailing allows people to make an educated guess about dining reservations
 * Having details about menus, including pricing, permits better budgeting and allows tracking price increases and decreases over time
+* Even purely promotional flyers can be relevant, by indicating which day a sale might be offered on
 
 While this information can often be found on various forums and personal websites, it is often not easily searchable, or locked behind a Pinterest-style registration gate. The goal is to tag, categorize and make this information accessible in a way that can both be picked up by search engines, and is easy to browse for interested cruisers.
 
@@ -21,7 +22,7 @@ While this information can often be found on various forums and personal website
 
 Images are stored in three high-level categories:
 
-* **Dailies**, which are the newsletters/daily programs detailing activities and venue hours of operation. Different cruise lines will have different names for these, eg: Celebrity Today, Carnival Fun Times, Norwegian Freestyle Daily. This category may also include children's program schedules.
+* **Dailies**, which are the newsletters/daily programs detailing activities and venue hours of operation. Different cruise lines will have different names for these, eg: Celebrity Today, Carnival Fun Times, Norwegian Freestyle Daily, or Princess Patter. This category may also include children's program schedules.
 * **Notices**, which are generally non-promotional in nature, and contain useful or necessary information in regards to shipboard or port operations. You might find tender information, disembarkation procedures, or announcements about port changes that were made on the relevant sailing.
 * **Other**, which contains promotional material, price lists, and uncategorized documentation.
 
