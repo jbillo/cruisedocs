@@ -14,7 +14,7 @@ This is an experimental project to catalog various cruise dailies, notices, menu
 
 * Knowing what the entertainment schedule is on a similar sailing allows people to make an educated guess about dining reservations
 * Having details about menus, including pricing, permits better budgeting and allows tracking price increases and decreases over time
-* Even purely promotional flyers can be relevant, by indicating which day a sale might be offered on
+* Even purely promotional flyers can be interesting, indicating which day a sale or "free" charms might be offered on
 
 While this information can often be found on various forums and personal websites, it is often not easily searchable, or locked behind a Pinterest-style registration gate. The goal is to tag, categorize and make this information accessible in a way that can both be picked up by search engines, and is easy to browse for interested cruisers.
 
