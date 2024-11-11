@@ -1,11 +1,11 @@
 ---
 title: Notices
 resources:
-    - name: other-2024-08-08-disembarkation-info-1
-      src: "other-2024-08-08-disembarkation-info-1.jpg"
+    - name: notice-2024-08-08-disembarkation-info-1
+      src: "notice-2024-08-08-disembarkation-info-1.jpg"
       title: ""
-    - name: other-2024-08-08-disembarkation-info-2
-      src: "other-2024-08-08-disembarkation-info-2.jpg"
+    - name: notice-2024-08-08-disembarkation-info-2
+      src: "notice-2024-08-08-disembarkation-info-2.jpg"
       title: ""
 ---
 
@@ -15,5 +15,5 @@ resources:
 
 ## 2024-08-08: Disembarkation Information
 
-{{< img name="other-2024-08-08-disembarkation-info-1" size="small" lazy=false >}}
-{{< img name="other-2024-08-08-disembarkation-info-2" size="small" lazy=false >}}
+{{< img name="notice-2024-08-08-disembarkation-info-1" size="small" lazy=false >}}
+{{< img name="notice-2024-08-08-disembarkation-info-2" size="small" lazy=false >}}

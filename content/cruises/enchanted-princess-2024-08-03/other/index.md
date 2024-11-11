@@ -7,6 +7,19 @@ resources:
     - name: other-2024-08-04-princess-cays-skipped-port-reverse
       src: "other-2024-08-04-princess-cays-skipped-port-reverse.jpg"
       title: ""
+    - name: other-2024-08-07-art-auction-flyer-1
+      src: "other-2024-08-07-art-auction-flyer-1.jpg"
+      title: ""
+    - name: other-2024-08-07-art-auction-flyer-2
+      src: "other-2024-08-07-art-auction-flyer-2.jpg"
+      title: ""
+    - name: other-2024-08-08-art-auction-flyer-1
+      src: "other-2024-08-08-art-auction-flyer-1.jpg"
+      title: ""
+    - name: other-2024-08-08-art-auction-flyer-2
+      src: "other-2024-08-08-art-auction-flyer-2.jpg"
+      title: ""
+
 
 ---
 
@@ -20,3 +33,13 @@ resources:
 {{< img name="other-2024-08-04-princess-cays-skipped-port-reverse" size="small" lazy=false >}}
 
 This letter with various promotional discounts was sent to staterooms where there had been a Princess-provided shorex booking (including clamshells) for the skipped port of Princess Cays. The first image has the guest name and cabin number redacted.
+
+## 2024-08-08: Grand Finale Art Auction Flyer (for Day 6)
+
+{{< img name="other-2024-08-07-art-auction-flyer-1" size="small" lazy=false >}}
+{{< img name="other-2024-08-07-art-auction-flyer-2" size="small" lazy=false >}}
+
+## 2024-08-08: Lightning Fast Art Auction Flyer (for Day 7)
+
+{{< img name="other-2024-08-08-art-auction-flyer-1" size="small" lazy=false >}}
+{{< img name="other-2024-08-08-art-auction-flyer-2" size="small" lazy=false >}}
