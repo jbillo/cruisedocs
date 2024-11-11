@@ -1,0 +1,5 @@
+/* You can add custom styles here. */
+.gdoc-nav nav {
+    /* Needed for wider cruise + date titles in nav bar */
+    width: 20rem;
+}

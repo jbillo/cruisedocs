@@ -27,9 +27,9 @@
 			
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"bungcip.better-toml",
 				"davidanson.vscode-markdownlint",
-				"ms-vscode.remote-explorer"
+				"ms-vscode.remote-explorer",
+				"tamasfe.even-better-toml"
 			]
 		}
 	},
