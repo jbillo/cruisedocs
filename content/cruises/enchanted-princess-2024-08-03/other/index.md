@@ -1,6 +1,12 @@
 ---
 title: Other
 resources:
+    - name: other-2024-08-03-upgrade-options-1
+      src: "other-2024-08-03-upgrade-options-1.jpg"
+      title: ""
+    - name: other-2024-08-03-upgrade-options-2
+      src: "other-2024-08-03-upgrade-options-2.jpg"
+      title: ""
     - name: other-2024-08-04-princess-cays-skipped-port
       src: "other-2024-08-04-princess-cays-skipped-port.jpg"
       title: ""
@@ -26,6 +32,11 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2024-08-03: Princess Plus/Premier/Prizes Upgrade Options
+
+{{< img name="other-2024-08-03-upgrade-options-1" size="small" lazy=false >}}
+{{< img name="other-2024-08-03-upgrade-options-2" size="small" lazy=false >}}
 
 ## 2024-08-04: Princess Cays - Skipped Port - Shorex Promotion
 
