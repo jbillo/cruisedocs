@@ -7,6 +7,12 @@ resources:
     - name: other-2024-08-03-upgrade-options-2
       src: "other-2024-08-03-upgrade-options-2.jpg"
       title: ""
+    - name: other-2024-08-03-shoreex-promo-1
+      src: "other-2024-08-03-shoreex-promo-1.jpg"
+      title: ""
+    - name: other-2024-08-03-shoreex-promo-2
+      src: "other-2024-08-03-shoreex-promo-2.jpg"
+      title: ""
 
     - name: other-2024-08-04-princess-cays-skipped-port
       src: "other-2024-08-04-princess-cays-skipped-port.jpg"
@@ -51,7 +57,12 @@ resources:
 {{< img name="other-2024-08-03-upgrade-options-1" size="small" lazy=false >}}
 {{< img name="other-2024-08-03-upgrade-options-2" size="small" lazy=false >}}
 
-## 2024-08-04: Princess Cays - Skipped Port - Shorex Promotion
+## 2024-08-03: Shore Excursions Promotion
+
+{{< img name="other-2024-08-03-shoreex-promo-1" size="small" lazy=false >}}
+{{< img name="other-2024-08-03-shoreex-promo-2" size="small" lazy=false >}}
+
+## 2024-08-04: Princess Cays - Skipped Port - Shore Excursions Promotion
 
 {{< img name="other-2024-08-04-princess-cays-skipped-port" size="small" lazy=false >}}
 {{< img name="other-2024-08-04-princess-cays-skipped-port-reverse" size="small" lazy=false >}}
