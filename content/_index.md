@@ -6,17 +6,22 @@ geekdocAnchor: false
 geekdocToC: 2
 ---
 
+Simple site with cruise dailies, programs, flyers and menus from a variety of lines and sailings.
+
 {{< toc-tree >}}
 
 ## About this site
 
-This is an experimental project to catalog various cruise dailies, notices, menus, and other documentation given out to passengers. Many people who enjoy cruising use this information to make decisions about booking, pre-cruise planning and onboard activities. Some examples:
+View various cruise dailies, notices, menus, and other documentation for passengers. Cruise enthusiasts appreciate this information to make decisions about booking, pre-cruise planning and onboard activities. Some examples:
 
-* Knowing what the entertainment schedule is on a similar sailing allows people to make an educated guess about dining reservations
-* Having details about menus, including pricing, permits better budgeting and allows tracking price increases and decreases over time
-* Even purely promotional flyers can be interesting, indicating which day a sale or "free" charms might be offered on
+* Knowing what the entertainment schedule is on a similar sailing allows cruisers to better plan their daily activities and specialty dining
+* Having details about drink menus, especially pricing, permits better budgeting and allows cost comparison over time
+* Food menus are often the same between sailings of the same length, so you can choose your favourite items ahead of time, or decide to skip the main dining room and go to the buffet instead
+* Even purely promotional flyers can be interesting, indicating which day has a specific sale or which "free" charms might be offered
 
-While this information can often be found on various forums and personal websites, it is often not easily searchable, or locked behind a Pinterest-style registration gate. The goal is to tag, categorize and make this information accessible in a way that can both be picked up by search engines, and is easy to browse for interested cruisers.
+While this information can often be found on various forums and personal websites, it is usually not easily searchable, or might be locked behind a Pinterest-style registration gate. Cruise lines also sometimes make these details available in their apps, but they might only be available for booked passengers, accessible only when connected to the ship network, show only one day at a time, and disappear once the cruise is over.
+
+The goal is to tag, categorize and make this information accessible in a way that can both be picked up by search engines, and is easy to browse for interested cruisers.
 
 ## Format
 
@@ -42,3 +47,5 @@ This website is being built in a slightly different way than some of my other pr
 * GitHub Codespaces
 
 GitHub in particular allows viewers to propose edits to pages by clicking the "Edit Page" button in the top right. If you're familiar with the pull request model, I welcome contributions!
+
+Eventually I expect this site will exceed [GitHub Pages' maximum limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) (1GB bundle, 10 minute build timeout, 100GB monthly bandwidth) and will have to be published somewhere else.
