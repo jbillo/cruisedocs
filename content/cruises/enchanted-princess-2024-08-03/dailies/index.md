@@ -108,6 +108,25 @@ resources:
     - name: daily-2024-08-08-patter-6
       src: "daily-2024-08-08-patter-6.jpg"
       title: ""
+
+    - name: daily-2024-08-09-patter-1
+      src: "daily-2024-08-09-patter-1.jpg"
+      title: ""
+    - name: daily-2024-08-09-patter-2
+      src: "daily-2024-08-09-patter-2.jpg"
+      title: ""
+    - name: daily-2024-08-09-patter-3
+      src: "daily-2024-08-09-patter-3.jpg"
+      title: ""
+    - name: daily-2024-08-09-patter-4
+      src: "daily-2024-08-09-patter-4.jpg"
+      title: ""
+    - name: daily-2024-08-09-patter-5
+      src: "daily-2024-08-09-patter-5.jpg"
+      title: ""
+    - name: daily-2024-08-09-patter-6
+      src: "daily-2024-08-09-patter-6.jpg"
+      title: ""
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
@@ -170,3 +189,12 @@ This was the revised daily program provided after missing the Princess Cays stop
 {{< img name="daily-2024-08-08-patter-4" size="small" lazy=false >}}
 {{< img name="daily-2024-08-08-patter-5" size="small" lazy=false >}}
 {{< img name="daily-2024-08-08-patter-6" size="small" lazy=false >}}
+
+## 2024-08-09: Princess Patter, Day 7 (At Sea)
+
+{{< img name="daily-2024-08-09-patter-1" size="small" lazy=false >}}
+{{< img name="daily-2024-08-09-patter-2" size="small" lazy=false >}}
+{{< img name="daily-2024-08-09-patter-3" size="small" lazy=false >}}
+{{< img name="daily-2024-08-09-patter-4" size="small" lazy=false >}}
+{{< img name="daily-2024-08-09-patter-5" size="small" lazy=false >}}
+{{< img name="daily-2024-08-09-patter-6" size="small" lazy=false >}}
