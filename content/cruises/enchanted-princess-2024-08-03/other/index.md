@@ -22,6 +22,10 @@ resources:
       src: "other-2024-08-04-champagne-art-auction-2.jpg"
       title: ""
 
+    - name: other-2024-08-06-flash-sale-st-thomas
+      src: "other-2024-08-06-flash-sale-st-thomas.jpg"
+      title: ""
+
     - name: other-2024-08-07-art-auction-flyer-1
       src: "other-2024-08-07-art-auction-flyer-1.jpg"
       title: ""
@@ -58,6 +62,10 @@ This letter with various promotional discounts was sent to staterooms where ther
 
 {{< img name="other-2024-08-04-champagne-art-auction-1" size="small" lazy=false >}}
 {{< img name="other-2024-08-04-champagne-art-auction-2" size="small" lazy=false >}}
+
+## 2024-08-06: Shore Excursions Flyer - Flash Sale, St. Thomas
+
+{{< img name="other-2024-08-06-flash-sale-st-thomas" size="small" lazy=false >}}
 
 ## 2024-08-08: Grand Finale Art Auction Flyer (for Day 6)
 
