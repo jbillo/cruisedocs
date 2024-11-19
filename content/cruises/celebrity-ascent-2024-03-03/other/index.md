@@ -8,6 +8,10 @@ resources:
       src: "other-2024-03-04-futurecruise-2.jpg"
       title: ""
 
+    - name: other-2024-03-05-inside-access-tour
+      src: "other-2024-03-05-inside-access-tour.jpg"
+      title: ""
+
     - name: other-2024-03-06-xcel-flyer-1
       src: "other-2024-03-06-xcel-flyer-1.jpg"
       title: ""
@@ -25,6 +29,12 @@ resources:
 
 {{< img name="other-2024-03-04-futurecruise-1" size="small" lazy=false >}}
 {{< img name="other-2024-03-04-futurecruise-2" size="small" lazy=false >}}
+
+## 2024-03-05: Inside Access Tour Letter
+
+{{< img name="other-2024-03-05-inside-access-tour" size="small" lazy=false >}}
+
+This letter was sent to guests who had booked the *Inside Access: Behind-the-Scenes Ship Tour*.
 
 ## 2024-03-06: Celebrity Xcel Flyer
 
