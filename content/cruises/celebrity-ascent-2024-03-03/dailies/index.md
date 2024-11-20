@@ -96,6 +96,25 @@ resources:
       src: "daily-2024-03-07-celebrity-today-6.jpg"
       title: ""
 
+    - name: daily-2024-03-08-celebrity-today-1
+      src: "daily-2024-03-08-celebrity-today-1.jpg"
+      title: ""
+    - name: daily-2024-03-08-celebrity-today-2
+      src: "daily-2024-03-08-celebrity-today-2.jpg"
+      title: ""
+    - name: daily-2024-03-08-celebrity-today-3
+      src: "daily-2024-03-08-celebrity-today-3.jpg"
+      title: ""
+    - name: daily-2024-03-08-celebrity-today-4
+      src: "daily-2024-03-08-celebrity-today-4.jpg"
+      title: ""
+    - name: daily-2024-03-08-celebrity-today-5
+      src: "daily-2024-03-08-celebrity-today-5.jpg"
+      title: ""
+    - name: daily-2024-03-08-celebrity-today-6
+      src: "daily-2024-03-08-celebrity-today-6.jpg"
+      title: ""
+
     - name: daily-2024-03-09-celebrity-today-1
       src: "daily-2024-03-09-celebrity-today-1.jpg"
       title: ""
@@ -165,6 +184,15 @@ resources:
 {{< img name="daily-2024-03-07-celebrity-today-4" size="small" lazy=false >}}
 {{< img name="daily-2024-03-07-celebrity-today-5" size="small" lazy=false >}}
 {{< img name="daily-2024-03-07-celebrity-today-6" size="small" lazy=false >}}
+
+## 2024-03-08: Celebrity Today - George Town, Grand Cayman (Day 6)
+
+{{< img name="daily-2024-03-08-celebrity-today-1" size="small" lazy=false >}}
+{{< img name="daily-2024-03-08-celebrity-today-2" size="small" lazy=false >}}
+{{< img name="daily-2024-03-08-celebrity-today-3" size="small" lazy=false >}}
+{{< img name="daily-2024-03-08-celebrity-today-4" size="small" lazy=false >}}
+{{< img name="daily-2024-03-08-celebrity-today-5" size="small" lazy=false >}}
+{{< img name="daily-2024-03-08-celebrity-today-6" size="small" lazy=false >}}
 
 ## 2024-03-09: Celebrity Today - At Sea (Day 7)
 
