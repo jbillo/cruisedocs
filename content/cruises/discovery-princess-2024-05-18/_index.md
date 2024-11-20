@@ -38,13 +38,17 @@ title: Discovery Princess, 2024-05-18
     <td>2024-05-23</td><td>Ketchikan, Alaska</td><td>07:00</td><td>13:00</td>
 </tr>
 <tr>
-    <td>2024-05-24</td><td>Victoria, British Columbia</td><td>19:00</td><td>23:59</td>
+    <td>2024-05-24</td><td>Victoria, British Columbia</td><td>21:00</td><td>23:59</td>
 </tr>
 <tr>
     <td>2024-05-25</td><td>Seattle, Washington</td><td>07:00</td><td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
+
+## Schedule adjustments
+
+* The port call at Victoria, BC (Day 7, 2024-05-24) was originally scheduled for 19:00 - 23:59 but changed to 21:00 - 23:59 before sailing "due to operational considerations".
 
 ## Content
 
