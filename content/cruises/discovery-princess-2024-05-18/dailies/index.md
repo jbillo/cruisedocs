@@ -1,6 +1,13 @@
 ---
 title: Dailies
 resources:
+    - name: daily-2024-05-19-event-listings-1
+      src: "daily-2024-05-19-event-listings-1.jpg"
+      title: ""
+    - name: daily-2024-05-19-event-listings-2
+      src: "daily-2024-05-19-event-listings-2.jpg"
+      title: ""
+
     - name: daily-2024-05-23-event-listings-1
       src: "daily-2024-05-23-event-listings-1.jpg"
       title: ""
@@ -20,6 +27,11 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2024-05-19: Princess Event Listings, Day 2 (At Sea)
+
+{{< img name="daily-2024-05-19-event-listings-1" size="small" lazy=false >}}
+{{< img name="daily-2024-05-19-event-listings-2" size="small" lazy=false >}}
 
 ## 2024-05-23: Princess Event Listings, Day 6 (Ketchikan, Alaska)
 
