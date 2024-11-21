@@ -22,6 +22,13 @@ resources:
       src: "daily-2024-05-21-event-listings-2.jpg"
       title: ""
 
+    - name: daily-2024-05-22-event-listings-1
+      src: "daily-2024-05-22-event-listings-1.jpg"
+      title: ""
+    - name: daily-2024-05-22-event-listings-2
+      src: "daily-2024-05-22-event-listings-2.jpg"
+      title: ""
+
     - name: daily-2024-05-23-event-listings-1
       src: "daily-2024-05-23-event-listings-1.jpg"
       title: ""
@@ -56,6 +63,11 @@ resources:
 
 {{< img name="daily-2024-05-21-event-listings-1" size="small" lazy=false >}}
 {{< img name="daily-2024-05-21-event-listings-2" size="small" lazy=false >}}
+
+## 2024-05-22: Princess Event Listings, Day 5 (Glacier Bay)
+
+{{< img name="daily-2024-05-22-event-listings-1" size="small" lazy=false >}}
+{{< img name="daily-2024-05-22-event-listings-2" size="small" lazy=false >}}
 
 ## 2024-05-23: Princess Event Listings, Day 6 (Ketchikan, Alaska)
 
