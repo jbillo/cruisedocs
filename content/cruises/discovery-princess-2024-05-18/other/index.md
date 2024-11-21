@@ -12,6 +12,10 @@ resources:
       src: "other-2024-05-23-art-auction-flyer-2.jpg"
       title: ""
 
+    - name: other-2024-05-23-ketchikan-shoreex
+      src: "other-2024-05-23-ketchikan-shoreex.jpg"
+      title: ""
+
     - name: other-2024-05-24-victoria-shoreex
       src: "other-2024-05-24-victoria-shoreex.jpg"
       title: ""
@@ -30,6 +34,10 @@ resources:
 
 {{< img name="other-2024-05-23-art-auction-flyer-1" size="small" lazy=false >}}
 {{< img name="other-2024-05-23-art-auction-flyer-2" size="small" lazy=false >}}
+
+## 2024-05-23: Ketchikan Shore Excursions
+
+{{< img name="other-2024-05-23-ketchikan-shoreex" size="small" lazy=false >}}
 
 ## 2024-05-24: Victoria Shore Excursions
 
