@@ -1,6 +1,10 @@
 ---
 title: Other
 resources:
+    - name: other-2024-05-21-skagway-shoreex
+      src: "other-2024-05-21-skagway-shoreex.jpg"
+      title: ""
+
     - name: other-2024-05-23-art-auction-flyer-1
       src: "other-2024-05-23-art-auction-flyer-1.jpg"
       title: ""
@@ -17,6 +21,10 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2024-05-21: Skagway Shore Excursions
+
+{{< img name="other-2024-05-21-skagway-shoreex" size="small" lazy=false >}}
 
 ## 2024-05-23: Grand Finale Art Auction Flyer (for Day 7)
 
