@@ -5,6 +5,19 @@ resources:
       src: "other-2024-05-21-skagway-shoreex.jpg"
       title: ""
 
+    - name: other-2024-05-22-glacier-bay-guide-1
+      src: "other-2024-05-22-glacier-bay-guide-1.jpg"
+      title: ""
+    - name: other-2024-05-22-glacier-bay-guide-2
+      src: "other-2024-05-22-glacier-bay-guide-2.jpg"
+      title: ""
+    - name: other-2024-05-22-glacier-bay-guide-3
+      src: "other-2024-05-22-glacier-bay-guide-3.jpg"
+      title: ""
+    - name: other-2024-05-22-glacier-bay-guide-4
+      src: "other-2024-05-22-glacier-bay-guide-4.jpg"
+      title: ""
+
     - name: other-2024-05-23-art-auction-flyer-1
       src: "other-2024-05-23-art-auction-flyer-1.jpg"
       title: ""
@@ -20,6 +33,10 @@ resources:
       src: "other-2024-05-24-victoria-shoreex.jpg"
       title: ""
 
+    - name: other-2024-05-24-effy-flyer
+      src: "other-2024-05-24-effy-flyer.jpg"
+      title: ""
+
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
@@ -29,6 +46,13 @@ resources:
 ## 2024-05-21: Skagway Shore Excursions
 
 {{< img name="other-2024-05-21-skagway-shoreex" size="small" lazy=false >}}
+
+## 2024-05-22: Glacier Bay Guide
+
+{{< img name="other-2024-05-22-glacier-bay-guide-1" size="small" lazy=false >}}
+{{< img name="other-2024-05-22-glacier-bay-guide-2" size="small" lazy=false >}}
+{{< img name="other-2024-05-22-glacier-bay-guide-3" size="small" lazy=false >}}
+{{< img name="other-2024-05-22-glacier-bay-guide-4" size="small" lazy=false >}}
 
 ## 2024-05-23: Grand Finale Art Auction Flyer (for Day 7)
 
@@ -42,3 +66,7 @@ resources:
 ## 2024-05-24: Victoria Shore Excursions
 
 {{< img name="other-2024-05-24-victoria-shoreex" size="small" lazy=false >}}
+
+## 2024-05-24: Effy Final Call Sale Flyer
+
+{{< img name="other-2024-05-24-effy-flyer" size="small" lazy=false >}}
