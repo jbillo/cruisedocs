@@ -1,6 +1,30 @@
 ---
 title: Other
 resources:
+    - name: other-2024-05-18-shopping-show-1
+      src: "other-2024-05-18-shopping-show-1.jpg"
+      title: ""
+    - name: other-2024-05-18-shopping-show-2
+      src: "other-2024-05-18-shopping-show-2.jpg"
+      title: ""
+    - name: other-2024-05-18-spa-flyer-1
+      src: "other-2024-05-18-spa-flyer-1.jpg"
+      title: ""
+    - name: other-2024-05-18-spa-flyer-2
+      src: "other-2024-05-18-spa-flyer-2.jpg"
+      title: ""
+
+    - name: other-2024-05-19-medallionpay-1
+      src: "other-2024-05-19-medallionpay-1.jpg"
+      title: ""
+    - name: other-2024-05-19-medallionpay-2
+      src: "other-2024-05-19-medallionpay-2.jpg"
+      title: ""
+
+    - name: other-2024-05-20-first-impressions
+      src: "other-2024-05-20-first-impressions.jpg"
+      title: ""
+
     - name: other-2024-05-21-skagway-shoreex
       src: "other-2024-05-21-skagway-shoreex.jpg"
       title: ""
@@ -42,6 +66,27 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2024-05-18: Shopping Show Flyer
+
+{{< img name="other-2024-05-18-shopping-show-1" size="small" lazy=false >}}
+{{< img name="other-2024-05-18-shopping-show-2" size="small" lazy=false >}}
+
+## 2024-05-18: Spa Flyer (Complimentary Health and Wellness Seminars)
+
+{{< img name="other-2024-05-18-spa-flyer-1" size="small" lazy=false >}}
+{{< img name="other-2024-05-18-spa-flyer-2" size="small" lazy=false >}}
+
+The second page, in its original format, had the text on the right cut off.
+
+## 2024-05-19: MedallionPay Flyer
+
+{{< img name="other-2024-05-19-medallionpay-1" size="small" lazy=false >}}
+{{< img name="other-2024-05-19-medallionpay-2" size="small" lazy=false >}}
+
+## 2024-05-19: First Impressions Survey
+
+{{< img name="other-2024-05-20-first-impressions" size="small" lazy=false >}}
 
 ## 2024-05-21: Skagway Shore Excursions
 
