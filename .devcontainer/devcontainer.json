@@ -30,7 +30,8 @@
 				"davidanson.vscode-markdownlint",
 				"ms-vscode.remote-explorer",
 				"tamasfe.even-better-toml",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"ms-python.python"
 			]
 		}
 	},
