@@ -27,7 +27,7 @@ def _main():
                 continue
 
             resource_names = []
-            resource_paths = []
+            resource_paths = set()  # we probably only end up with one element here
 
             for resource in resources:
                 # Get the 'name' property; if it exists add it to the list of resource names
@@ -51,7 +51,7 @@ def _main():
                 print(f"    [*] Checking if {resource_path} exists")
                 if resource_path.exists():
                     print(f"        [+] Resource {resource_path} exists")
-                    resource_paths.append(resource_path)
+                    resource_paths.add(resource_path)
                 else:
                     print(f"        [-] Resource {resource_path} does NOT exist, review directory contents or source in {md_file_path}")
 
@@ -61,6 +61,22 @@ def _main():
                     print(f"    [+] Resource {resource_name} present in front matter and referenced in file content")
                 else:
                     print(f"    [-] A resource named {resource_name} was defined, but didn't seem to be referenced as an image in the content")
+
+            # We have a list of resources. For each resource, get the contents of the directory
+            # it lives in, flattened into a set. We'll end up with a list that _should_ match the
+            # defined resource 'src's in the YAML.
+            resources_in_fs = set()
+            for resource_path in resource_paths:
+                parent_path = resource_path.parent
+                for on_disk_path in parent_path.glob('**/*'):
+                    resources_in_fs.add(on_disk_path)
+
+            resource_diff = resources_in_fs ^ resource_paths
+            resource_diff = resource_diff - set([md_file_path])
+
+            if resource_diff:
+                print(f"    [-] Mismatch between filesystem and resources in content: {resource_diff}")
+
 
 
 if __name__ == "__main__":
