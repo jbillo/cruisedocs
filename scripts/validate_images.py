@@ -7,6 +7,10 @@ import yaml
 
 def _main():
     p = Path('content/')
+    if not p.exists():
+        print(f"[!] Path `{p.absolute()}` does not exist; try running `scripts/validate_images.py` from the site root")
+        return
+
     md_file_paths = p.glob('**/*.md')
     for md_file_path in md_file_paths:
         print()
