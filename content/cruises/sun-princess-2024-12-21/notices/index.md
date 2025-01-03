@@ -1,6 +1,10 @@
 ---
 title: Notices
 resources:
+    - name: notice-2024-12-21-welcome-aboard
+      src: "notice-2024-12-21-welcome-aboard.jpg"
+      title: ""
+
     - name: notice-2024-12-21-lng-replenishment
       src: "notice-2024-12-21-lng-replenishment.jpg"
       title: ""
@@ -20,6 +24,10 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2024-12-21: Welcome Aboard
+
+{{< img name="notice-2024-12-21-welcome-aboard" size="small" lazy=false >}}
 
 ## 2024-12-21: Liquified Natural Gas (LNG) Replenishment
 
