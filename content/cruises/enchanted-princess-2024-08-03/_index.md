@@ -41,10 +41,10 @@ title: Enchanted Princess, 2024-08-03
     <td>2024-08-08</td><td colspan="3">At Sea</td>
 </tr>
 <tr>
-    <td>2022-08-09</td><td colspan="3">At Sea</td>
+    <td>2024-08-09</td><td colspan="3">At Sea</td>
 </tr>
 <tr>
-    <td>2022-08-10</td><td>Fort Lauderdale, Florida</td><td>06:00</td><td>&nbsp;</td>
+    <td>2024-08-10</td><td>Fort Lauderdale, Florida</td><td>06:00</td><td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
