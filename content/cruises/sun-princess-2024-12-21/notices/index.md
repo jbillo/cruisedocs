@@ -1,6 +1,10 @@
 ---
 title: Notices
 resources:
+    - name: notice-2024-12-21-lng-replenishment
+      src: "notice-2024-12-21-lng-replenishment.jpg"
+      title: ""
+
     - name: notice-2024-12-21-holidays-at-sea
       src: "notice-2024-12-21-holidays-at-sea.jpg"
       title: ""
@@ -16,6 +20,10 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2024-12-21: Liquified Natural Gas (LNG) Replenishment
+
+{{< img name="notice-2024-12-21-lng-replenishment" size="small" lazy=false >}}
 
 ## 2024-12-21: Holidays at Sea
 
