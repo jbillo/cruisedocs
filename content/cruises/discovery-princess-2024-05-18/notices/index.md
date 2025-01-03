@@ -74,4 +74,4 @@ resources:
 ## 2024-05-23: Disembarkation Information
 
 {{< img name="notice-2024-05-23-disembark-info-1" size="small" lazy=false >}}
-{{< img name="notice-2024-05-23-disembark-info-1" size="small" lazy=false >}}
+{{< img name="notice-2024-05-23-disembark-info-2" size="small" lazy=false >}}
