@@ -175,7 +175,7 @@ resources:
 {{< img name="daily-2024-12-24-patter-5" size="small" lazy=false >}}
 {{< img name="daily-2024-12-24-patter-6" size="small" lazy=false >}}
 
-## 2024-12-24: Princess Patter, Day 5 (Roatan (Mahogany Bay), Honduras)
+## 2024-12-25: Princess Patter, Day 5 (Roatan (Mahogany Bay), Honduras)
 
 {{< img name="daily-2024-12-25-patter-1" size="small" lazy=false >}}
 {{< img name="daily-2024-12-25-patter-2" size="small" lazy=false >}}
