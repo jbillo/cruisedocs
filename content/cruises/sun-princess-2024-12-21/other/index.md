@@ -1,9 +1,5 @@
 ---
 title: Other
-resources:
-    - name: other-2024-12-22-breakfast-door-hanger
-      src: "other-2024-12-22-breakfast-door-hanger.jpg"
-      title: ""
 
 ---
 
@@ -11,6 +7,4 @@ resources:
 
 {{< toc >}}
 
-## 2024-12-22: Breakfast Room Service Door Hanger
-
-{{< img name="other-2024-12-22-breakfast-door-hanger" size="small" lazy=false >}}
+More to come!
