@@ -21,6 +21,10 @@ resources:
       src: "notice-2024-12-21-entertainment-venues.jpg"
       title: ""
 
+    - name: notice-2024-12-21-youth-program-holiday-activities
+      src: "notice-2024-12-21-youth-program-holiday-activities.jpg"
+      title: ""
+
     - name: notice-2024-12-26-disembarkation-info-1
       src: "notice-2024-12-26-disembarkation-info-1.jpg"
       title: ""
@@ -52,6 +56,10 @@ resources:
 ## 2024-12-21: Entertainment Venues
 
 {{< img name="notice-2024-12-21-entertainment-venues" size="small" lazy=false >}}
+
+## 2024-12-21: Youth Program Holiday Activities
+
+{{< img name="notice-2024-12-21-youth-program-holiday-activities" size="small" lazy=false >}}
 
 ## 2024-12-26: Disembarkation Information
 
