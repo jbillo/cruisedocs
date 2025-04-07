@@ -25,6 +25,10 @@ resources:
       src: "notice-2024-12-21-youth-program-holiday-activities.jpg"
       title: ""
 
+    - name: notice-2024-12-23-payment-method-update
+      src: "notice-2024-12-23-payment-method-update.jpg"
+      title: ""
+
     - name: notice-2024-12-26-disembarkation-info-1
       src: "notice-2024-12-26-disembarkation-info-1.jpg"
       title: ""
@@ -60,6 +64,13 @@ resources:
 ## 2024-12-21: Youth Program Holiday Activities
 
 {{< img name="notice-2024-12-21-youth-program-holiday-activities" size="small" lazy=false >}}
+
+## 2024-12-23: Payment Method Update
+
+{{< img name="notice-2024-12-23-payment-method-update" size="small" lazy=false >}}
+
+This letter was sent to one of the guests in the cabin (name and cabin number redacted) where the primary guest's credit card had not been successfully linked to all passengers.
+A quick visit to Guest Services was able to resolve the issue.
 
 ## 2024-12-26: Disembarkation Information
 
