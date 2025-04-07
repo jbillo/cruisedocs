@@ -13,6 +13,14 @@ resources:
       src: "notice-2024-12-21-holidays-at-sea.jpg"
       title: ""
 
+    - name: notice-2024-12-21-dining-options
+      src: "notice-2024-12-21-dining-options.jpg"
+      title: ""
+
+    - name: notice-2024-12-21-entertainment-venues
+      src: "notice-2024-12-21-entertainment-venues.jpg"
+      title: ""
+
     - name: notice-2024-12-26-disembarkation-info-1
       src: "notice-2024-12-26-disembarkation-info-1.jpg"
       title: ""
@@ -36,6 +44,14 @@ resources:
 ## 2024-12-21: Holidays at Sea
 
 {{< img name="notice-2024-12-21-holidays-at-sea" size="small" lazy=false >}}
+
+## 2024-12-21: Dining Options
+
+{{< img name="notice-2024-12-21-dining-options" size="small" lazy=false >}}
+
+## 2024-12-21: Entertainment Venues
+
+{{< img name="notice-2024-12-21-entertainment-venues" size="small" lazy=false >}}
 
 ## 2024-12-26: Disembarkation Information
 
