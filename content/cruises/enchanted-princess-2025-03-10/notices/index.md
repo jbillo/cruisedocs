@@ -1,6 +1,10 @@
 ---
 title: Notices
 resources:
+    - name: notice-2025-03-13-st-maarten-port-info
+      src: "notice-2025-03-13-st-maarten-port-info.jpg"
+      title: ""
+
     - name: notice-2025-03-14-antigua-port-info
       src: "notice-2025-03-14-antigua-port-info.jpg"
       title: ""
@@ -17,6 +21,10 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2025-03-13: St Maarten Port Information
+
+{{< img name="notice-2025-03-13-st-maarten-port-info" size="small" lazy=false >}}
 
 ## 2025-03-14: Antigua Port Information
 
