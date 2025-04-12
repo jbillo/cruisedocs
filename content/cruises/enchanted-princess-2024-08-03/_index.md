@@ -23,7 +23,7 @@ title: Enchanted Princess, 2024-08-03
 </tr>
 <tr>
     <td>
-        2022-08-04</td><td>Princess Cays <br />
+        2024-08-04</td><td>Princess Cays <br />
         <em>(water shuttle required/wheelchair access limited)</em>
     </td>
     <td>09:00</td><td>16:00</td>
