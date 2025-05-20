@@ -8,6 +8,25 @@ resources:
       src: "daily-2025-03-10-treehouse-2.jpg"
       title: ""
 
+    - name: daily-2025-03-12-patter-1
+      src: "daily-2025-03-12-patter-1.jpg"
+      title: ""
+    - name: daily-2025-03-12-patter-2
+      src: "daily-2025-03-12-patter-2.jpg"
+      title: ""
+    - name: daily-2025-03-12-patter-3
+      src: "daily-2025-03-12-patter-3.jpg"
+      title: ""
+    - name: daily-2025-03-12-patter-4
+      src: "daily-2025-03-12-patter-4.jpg"
+      title: ""
+    - name: daily-2025-03-12-patter-5
+      src: "daily-2025-03-12-patter-5.jpg"
+      title: ""
+    - name: daily-2025-03-12-patter-6
+      src: "daily-2025-03-12-patter-6.jpg"
+      title: ""
+
     - name: daily-2025-03-13-patter-1
       src: "daily-2025-03-13-patter-1.jpg"
       title: ""
@@ -62,6 +81,15 @@ This program and information was in the cabin on the first day and also availabl
 
 {{< img name="daily-2025-03-10-treehouse-1" size="small" lazy=false >}}
 {{< img name="daily-2025-03-10-treehouse-2" size="small" lazy=false >}}
+
+## 2025-03-12: Princess Patter, Day 3 (At Sea)
+
+{{< img name="daily-2025-03-12-patter-1" size="small" lazy=false >}}
+{{< img name="daily-2025-03-12-patter-2" size="small" lazy=false >}}
+{{< img name="daily-2025-03-12-patter-3" size="small" lazy=false >}}
+{{< img name="daily-2025-03-12-patter-4" size="small" lazy=false >}}
+{{< img name="daily-2025-03-12-patter-5" size="small" lazy=false >}}
+{{< img name="daily-2025-03-12-patter-6" size="small" lazy=false >}}
 
 ## 2025-03-13: Princess Patter, Day 4 (St Thomas)
 
