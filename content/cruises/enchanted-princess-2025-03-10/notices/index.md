@@ -1,6 +1,10 @@
 ---
 title: Notices
 resources:
+    - name: notice-2025-03-10-sun-procedures
+      src: "notice-2025-03-10-sun-procedures.jpg"
+      title: ""
+
     - name: notice-2025-03-12-st-thomas-port-info
       src: "notice-2025-03-12-st-thomas-port-info.jpg"
       title: ""
@@ -25,6 +29,12 @@ resources:
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
+
+## 2025-03-10: Sun Procedures
+
+Information about reserving loungers (for the chair hogs) and beach towels.
+
+{{< img name="notice-2025-03-10-sun-procedures" size="small" lazy=false >}}
 
 ## 2025-03-12: St Thomas Port Information
 
