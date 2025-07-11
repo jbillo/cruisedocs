@@ -24,6 +24,13 @@ resources:
     - name: notice-2025-03-16-tortola-port-info
       src: "notice-2025-03-16-tortola-port-info.jpg"
       title: ""
+
+    - name: notice-2025-03-18-disembark-info-1
+      src: "notice-2025-03-18-disembark-info-1.jpg"
+      title: ""
+    - name: notice-2025-03-18-disembark-info-2
+      src: "notice-2025-03-18-disembark-info-2.jpg"
+      title: ""
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
@@ -55,3 +62,8 @@ Information about reserving loungers (for the chair hogs) and beach towels.
 ## 2025-03-16: Tortola Port Information
 
 {{< img name="notice-2025-03-16-tortola-port-info" size="small" lazy=false >}}
+
+## 2025-03-18: Disembarkation Information
+
+{{< img name="notice-2025-03-18-disembark-info-1" size="small" lazy=false >}}
+{{< img name="notice-2025-03-18-disembark-info-2" size="small" lazy=false >}}
