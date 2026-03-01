@@ -1,14 +1,13 @@
 ---
 title: Other
+cruise: Carnival Celebration, 2023-07-02
 resources:
-    - name: other-2023-07-02-stateroom-delivery
-      src: "other-2023-07-02-stateroom-delivery.jpeg"
-      title: ""
-    - name: other-2023-07-02-stateroom-delivery-2
-      src: "other-2023-07-02-stateroom-delivery-2.jpeg"
-      title: ""
-
-
+  - name: other-2023-07-02-stateroom-delivery
+    src: other-2023-07-02-stateroom-delivery.jpeg
+    title: ''
+  - name: other-2023-07-02-stateroom-delivery-2
+    src: other-2023-07-02-stateroom-delivery-2.jpeg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

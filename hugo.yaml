@@ -120,6 +120,30 @@ params:
           name: "body"
           widget: "markdown"
 
+      - name: other
+        folder: "content/cruises"
+        label: "Other"
+        path: "{{cruise}}/other/index"
+        identifier_field: cruise
+        create: true
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "hidden"
+          - label: "Cruise"
+            name: "cruise"
+            widget: "relation"
+            collection: "cruises"
+            search_fields:
+              - cruise_start_date
+              - title
+            display_fields:
+              - "{{title}} ({{cruise_start_date}})"
+            value_field: title
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+
 caches:
   images:
     dir: :cacheDir/images

@@ -1,41 +1,37 @@
 ---
 title: Other
+cruise: Celebrity Ascent, 2024-03-03
 resources:
-    - name: other-2024-03-03-park-west-card-1
-      src: "other-2024-03-03-park-west-card-1.jpg"
-      title: ""
-    - name: other-2024-03-03-park-west-card-2
-      src: "other-2024-03-03-park-west-card-2.jpg"
-      title: ""
-    - name: other-2024-03-03-park-west-card-3
-      src: "other-2024-03-03-park-west-card-3.jpg"
-      title: ""
-
-    - name: other-2024-03-04-futurecruise-1
-      src: "other-2024-03-04-futurecruise-1.jpg"
-      title: ""
-    - name: other-2024-03-04-futurecruise-2
-      src: "other-2024-03-04-futurecruise-2.jpg"
-      title: ""
-
-    - name: other-2024-03-05-inside-access-tour
-      src: "other-2024-03-05-inside-access-tour.jpg"
-      title: ""
-
-    - name: other-2024-03-06-xcel-flyer-1
-      src: "other-2024-03-06-xcel-flyer-1.jpg"
-      title: ""
-    - name: other-2024-03-06-xcel-flyer-2
-      src: "other-2024-03-06-xcel-flyer-2.jpg"
-      title: ""
-
-    - name: other-2024-03-08-futurecruise-1
-      src: "other-2024-03-08-futurecruise-1.jpg"
-      title: ""
-    - name: other-2024-03-08-futurecruise-2
-      src: "other-2024-03-08-futurecruise-2.jpg"
-      title: ""
-
+  - name: other-2024-03-03-park-west-card-1
+    src: other-2024-03-03-park-west-card-1.jpg
+    title: ''
+  - name: other-2024-03-03-park-west-card-2
+    src: other-2024-03-03-park-west-card-2.jpg
+    title: ''
+  - name: other-2024-03-03-park-west-card-3
+    src: other-2024-03-03-park-west-card-3.jpg
+    title: ''
+  - name: other-2024-03-04-futurecruise-1
+    src: other-2024-03-04-futurecruise-1.jpg
+    title: ''
+  - name: other-2024-03-04-futurecruise-2
+    src: other-2024-03-04-futurecruise-2.jpg
+    title: ''
+  - name: other-2024-03-05-inside-access-tour
+    src: other-2024-03-05-inside-access-tour.jpg
+    title: ''
+  - name: other-2024-03-06-xcel-flyer-1
+    src: other-2024-03-06-xcel-flyer-1.jpg
+    title: ''
+  - name: other-2024-03-06-xcel-flyer-2
+    src: other-2024-03-06-xcel-flyer-2.jpg
+    title: ''
+  - name: other-2024-03-08-futurecruise-1
+    src: other-2024-03-08-futurecruise-1.jpg
+    title: ''
+  - name: other-2024-03-08-futurecruise-2
+    src: other-2024-03-08-futurecruise-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
@@ -57,7 +53,7 @@ resources:
 
 {{< img name="other-2024-03-05-inside-access-tour" size="small" lazy=false >}}
 
-This letter was sent to guests who had booked the *Inside Access: Behind-the-Scenes Ship Tour*.
+This letter was sent to guests who had booked the _Inside Access: Behind-the-Scenes Ship Tour_.
 
 ## 2024-03-06: Celebrity Xcel Flyer
 

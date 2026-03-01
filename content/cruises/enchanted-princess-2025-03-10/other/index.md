@@ -1,10 +1,10 @@
 ---
 title: Other
+cruise: Enchanted Princess, 2025-03-10
 resources:
-    - name: other-2025-03-12-first-impressions
-      src: "other-2025-03-12-first-impressions.jpg"
-      title: ""
-
+  - name: other-2025-03-12-first-impressions
+    src: other-2025-03-12-first-impressions.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

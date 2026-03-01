@@ -1,20 +1,19 @@
 ---
 title: Other
+cruise: Sun Princess, 2024-12-21
 resources:
-    - name: other-2024-12-21-spa-price-list-1
-      src: "other-2024-12-21-spa-price-list-1.jpg"
-      title: ""
-    - name: other-2024-12-21-spa-price-list-2
-      src: "other-2024-12-21-spa-price-list-2.jpg"
-      title: ""
-
-    - name: other-2024-12-23-ez-check-1
-      src: "other-2024-12-23-ez-check-1.jpg"
-      title: ""
-    - name: other-2024-12-23-ez-check-2
-      src: "other-2024-12-23-ez-check-2.jpg"
-      title: ""
-
+  - name: other-2024-12-21-spa-price-list-1
+    src: other-2024-12-21-spa-price-list-1.jpg
+    title: ''
+  - name: other-2024-12-21-spa-price-list-2
+    src: other-2024-12-21-spa-price-list-2.jpg
+    title: ''
+  - name: other-2024-12-23-ez-check-1
+    src: other-2024-12-23-ez-check-1.jpg
+    title: ''
+  - name: other-2024-12-23-ez-check-2
+    src: other-2024-12-23-ez-check-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
