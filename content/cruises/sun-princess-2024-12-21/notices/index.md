@@ -1,40 +1,34 @@
 ---
 title: Notices
+cruise: Sun Princess, 2024-12-21
 resources:
-    - name: notice-2024-12-21-welcome-aboard
-      src: "notice-2024-12-21-welcome-aboard.jpg"
-      title: ""
-
-    - name: notice-2024-12-21-lng-replenishment
-      src: "notice-2024-12-21-lng-replenishment.jpg"
-      title: ""
-
-    - name: notice-2024-12-21-holidays-at-sea
-      src: "notice-2024-12-21-holidays-at-sea.jpg"
-      title: ""
-
-    - name: notice-2024-12-21-dining-options
-      src: "notice-2024-12-21-dining-options.jpg"
-      title: ""
-
-    - name: notice-2024-12-21-entertainment-venues
-      src: "notice-2024-12-21-entertainment-venues.jpg"
-      title: ""
-
-    - name: notice-2024-12-21-youth-program-holiday-activities
-      src: "notice-2024-12-21-youth-program-holiday-activities.jpg"
-      title: ""
-
-    - name: notice-2024-12-23-payment-method-update
-      src: "notice-2024-12-23-payment-method-update.jpg"
-      title: ""
-
-    - name: notice-2024-12-26-disembarkation-info-1
-      src: "notice-2024-12-26-disembarkation-info-1.jpg"
-      title: ""
-    - name: notice-2024-12-26-disembarkation-info-2
-      src: "notice-2024-12-26-disembarkation-info-2.jpg"
-      title: ""
+  - name: notice-2024-12-21-welcome-aboard
+    src: notice-2024-12-21-welcome-aboard.jpg
+    title: ''
+  - name: notice-2024-12-21-lng-replenishment
+    src: notice-2024-12-21-lng-replenishment.jpg
+    title: ''
+  - name: notice-2024-12-21-holidays-at-sea
+    src: notice-2024-12-21-holidays-at-sea.jpg
+    title: ''
+  - name: notice-2024-12-21-dining-options
+    src: notice-2024-12-21-dining-options.jpg
+    title: ''
+  - name: notice-2024-12-21-entertainment-venues
+    src: notice-2024-12-21-entertainment-venues.jpg
+    title: ''
+  - name: notice-2024-12-21-youth-program-holiday-activities
+    src: notice-2024-12-21-youth-program-holiday-activities.jpg
+    title: ''
+  - name: notice-2024-12-23-payment-method-update
+    src: notice-2024-12-23-payment-method-update.jpg
+    title: ''
+  - name: notice-2024-12-26-disembarkation-info-1
+    src: notice-2024-12-26-disembarkation-info-1.jpg
+    title: ''
+  - name: notice-2024-12-26-disembarkation-info-2
+    src: notice-2024-12-26-disembarkation-info-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

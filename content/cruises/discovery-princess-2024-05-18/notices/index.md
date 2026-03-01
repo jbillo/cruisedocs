@@ -1,46 +1,40 @@
 ---
 title: Notices
+cruise: Discovery Princess, 2024-05-18
 resources:
-    - name: notice-2024-05-18-welcome-aboard-1
-      src: "notice-2024-05-18-welcome-aboard-1.jpg"
-      title: ""
-    - name: notice-2024-05-18-welcome-aboard-2
-      src: "notice-2024-05-18-welcome-aboard-2.jpg"
-      title: ""
-
-    - name: notice-2024-05-19-port-info-1
-      src: "notice-2024-05-19-port-info-1.jpg"
-      title: ""
-    - name: notice-2024-05-19-port-info-2
-      src: "notice-2024-05-19-port-info-2.jpg"
-      title: ""
-
-    - name: notice-2024-05-19-port-valet-1
-      src: "notice-2024-05-19-port-valet-1.jpg"
-      title: ""
-    - name: notice-2024-05-19-port-valet-2
-      src: "notice-2024-05-19-port-valet-2.jpg"
-      title: ""
-
-    - name: notice-2024-05-19-canadian-customs-1
-      src: "notice-2024-05-19-canadian-customs-1.jpg"
-      title: ""
-    - name: notice-2024-05-19-canadian-customs-2
-      src: "notice-2024-05-19-canadian-customs-2.jpg"
-      title: ""
-
-    - name: notice-2024-05-21-skagway-water-shuttle
-      src: "notice-2024-05-21-skagway-water-shuttle.jpg"
-      title: ""
-
-    - name: notice-2024-05-23-disembark-info-1
-      src: "notice-2024-05-23-disembark-info-1.jpg"
-      title: ""
-    - name: notice-2024-05-23-disembark-info-2
-      src: "notice-2024-05-23-disembark-info-2.jpg"
-      title: ""
-
-
+  - name: notice-2024-05-18-welcome-aboard-1
+    src: notice-2024-05-18-welcome-aboard-1.jpg
+    title: ''
+  - name: notice-2024-05-18-welcome-aboard-2
+    src: notice-2024-05-18-welcome-aboard-2.jpg
+    title: ''
+  - name: notice-2024-05-19-port-info-1
+    src: notice-2024-05-19-port-info-1.jpg
+    title: ''
+  - name: notice-2024-05-19-port-info-2
+    src: notice-2024-05-19-port-info-2.jpg
+    title: ''
+  - name: notice-2024-05-19-port-valet-1
+    src: notice-2024-05-19-port-valet-1.jpg
+    title: ''
+  - name: notice-2024-05-19-port-valet-2
+    src: notice-2024-05-19-port-valet-2.jpg
+    title: ''
+  - name: notice-2024-05-19-canadian-customs-1
+    src: notice-2024-05-19-canadian-customs-1.jpg
+    title: ''
+  - name: notice-2024-05-19-canadian-customs-2
+    src: notice-2024-05-19-canadian-customs-2.jpg
+    title: ''
+  - name: notice-2024-05-21-skagway-water-shuttle
+    src: notice-2024-05-21-skagway-water-shuttle.jpg
+    title: ''
+  - name: notice-2024-05-23-disembark-info-1
+    src: notice-2024-05-23-disembark-info-1.jpg
+    title: ''
+  - name: notice-2024-05-23-disembark-info-2
+    src: notice-2024-05-23-disembark-info-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

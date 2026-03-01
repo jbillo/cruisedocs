@@ -1,14 +1,13 @@
 ---
 title: Notices
+cruise: Enchanted Princess, 2025-08-09
 resources:
-    - name: notice-2025-08-16-itinerary-change
-      src: "notice-2025-08-16-itinerary-change.jpg"
-      title: ""
-
-    - name: notice-2025-08-21-immigration-info
-      src: "notice-2025-08-21-immigration-info.jpg"
-      title: ""
-
+  - name: notice-2025-08-16-itinerary-change
+    src: notice-2025-08-16-itinerary-change.jpg
+    title: ''
+  - name: notice-2025-08-21-immigration-info
+    src: notice-2025-08-21-immigration-info.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

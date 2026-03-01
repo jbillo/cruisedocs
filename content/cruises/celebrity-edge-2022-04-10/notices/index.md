@@ -1,34 +1,36 @@
 ---
 title: Notices
+cruise: Celebrity Edge, 2022-04-10
 resources:
-    - name: notice-2022-04-10-healthy-at-sea
-      src: "notice-2022-04-10-healthy-at-sea.jpg"
-      title: ""
-    - name: notice-2022-04-10-healthy-at-sea-port-requirements
-      src: "notice-2022-04-10-healthy-at-sea-port-requirements.jpeg"
-      title: ""
-    - name: notice-2022-04-10-healthy-at-sea-port-requirements-2
-      src: "notice-2022-04-10-healthy-at-sea-port-requirements-2.jpeg"
-      title: ""
-    - name: notice-2022-04-10-crew-covid-19-testing
-      src: "notice-2022-04-10-crew-covid-19-testing.jpeg"
-      title: ""
-    - name: notice-2022-04-10-select-anytime-dining
-      src: "notice-2022-04-10-select-anytime-dining.jpg"
-      title: ""
-    - name: notice-2022-04-13-grand-cayman-tender
-      src: "notice-2022-04-13-grand-cayman-tender.jpg"
-      title: ""
-    - name: notice-2022-04-17-disembarkation-info
-      src: "notice-2022-04-17-disembarkation-info.jpeg"
-      title: ""
-    - name: notice-2022-04-17-disembarkation-info-2
-      src: "notice-2022-04-17-disembarkation-info-2.jpeg"
-      title: ""
-    - name: notice-2022-04-17-disembarkation-health
-      src: "notice-2022-04-17-disembarkation-health.jpeg"
-      title: ""
+  - name: notice-2022-04-10-healthy-at-sea
+    src: notice-2022-04-10-healthy-at-sea.jpg
+    title: ''
+  - name: notice-2022-04-10-healthy-at-sea-port-requirements
+    src: notice-2022-04-10-healthy-at-sea-port-requirements.jpeg
+    title: ''
+  - name: notice-2022-04-10-healthy-at-sea-port-requirements-2
+    src: notice-2022-04-10-healthy-at-sea-port-requirements-2.jpeg
+    title: ''
+  - name: notice-2022-04-10-crew-covid-19-testing
+    src: notice-2022-04-10-crew-covid-19-testing.jpeg
+    title: ''
+  - name: notice-2022-04-10-select-anytime-dining
+    src: notice-2022-04-10-select-anytime-dining.jpg
+    title: ''
+  - name: notice-2022-04-13-grand-cayman-tender
+    src: notice-2022-04-13-grand-cayman-tender.jpg
+    title: ''
+  - name: notice-2022-04-17-disembarkation-info
+    src: notice-2022-04-17-disembarkation-info.jpeg
+    title: ''
+  - name: notice-2022-04-17-disembarkation-info-2
+    src: notice-2022-04-17-disembarkation-info-2.jpeg
+    title: ''
+  - name: notice-2022-04-17-disembarkation-health
+    src: notice-2022-04-17-disembarkation-health.jpeg
+    title: ''
 ---
+
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}
@@ -47,7 +49,7 @@ These letters were provided in the initial set of documentation in the stateroom
 
 This letter was provided at embarkation time.
 
----
+***
 
 ## 2022-04-10: Celebrity Select Anytime Dining
 
@@ -55,7 +57,7 @@ This letter was provided at embarkation time.
 
 This notice was provided in the initial set of documentation in the stateroom.
 
----
+***
 
 ## 2022-04-13: Georgetown, Grand Cayman Tender Operation Information
 
@@ -63,7 +65,7 @@ This notice was provided in the initial set of documentation in the stateroom.
 
 This notice was delivered with the daily on the evening of 2022-04-12.
 
----
+***
 
 ## 2022-04-17: Disembarkation Information
 
