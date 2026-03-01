@@ -87,10 +87,10 @@ params:
           widget: "relation"
           collection: "cruises"
           search_fields:
+            - cruise_start_date
             - title
           display_fields:
-            # - cruise_year
-            - title
+            - "{{title}} ({{cruise_start_date}})"
           value_field: title
         - label: "Body"
           name: "body"
