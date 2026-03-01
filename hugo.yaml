@@ -54,6 +54,8 @@ params:
         folder: "content/cruises"
         path: "{{slug}}-{{cruise_start_date}}/_index"
         create: true
+        media_folder: ''
+        public_folder: ''
         fields:
           - label: "Title"
             name: "title"
@@ -77,6 +79,8 @@ params:
         path: "{{cruise}}/dailies/index"
         identifier_field: cruise
         create: true
+        media_folder: ''
+        public_folder: ''
         fields:
         - label: "Title"
           name: "title"
@@ -102,6 +106,8 @@ params:
         path: "{{cruise}}/notices/index"
         identifier_field: cruise
         create: true
+        media_folder: ''
+        public_folder: ''
         fields:
         - label: "Title"
           name: "title"
@@ -126,6 +132,8 @@ params:
         path: "{{cruise}}/menus/index"
         identifier_field: cruise
         create: true
+        media_folder: ''
+        public_folder: ''
         fields:
           - label: "Title"
             name: "title"
@@ -150,6 +158,8 @@ params:
         path: "{{cruise}}/other/index"
         identifier_field: cruise
         create: true
+        media_folder: ''
+        public_folder: ''
         fields:
           - label: "Title"
             name: "title"
