@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: enchanted-princess-2024-08-03
 resources:
     - name: daily-2024-08-03-patter-1
       src: "daily-2024-08-03-patter-1.jpg"

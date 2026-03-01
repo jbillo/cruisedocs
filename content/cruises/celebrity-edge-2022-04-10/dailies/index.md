@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: celebrity-edge-2022-04-10
 resources:
     - name: daily-2022-04-10-celebrity-today
       src: "daily-2022-04-10-celebrity-today.jpeg"

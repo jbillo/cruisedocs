@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: discovery-princess-2024-05-18
 resources:
     - name: daily-2024-05-18-event-listings-1
       src: "daily-2024-05-18-event-listings-1.jpg"

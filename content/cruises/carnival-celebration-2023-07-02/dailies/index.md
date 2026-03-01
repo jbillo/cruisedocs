@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: carnival-celebration-2023-07-02
 resources:
     - name: daily-2023-07-02-fun-times
       src: "daily-2023-07-02-fun-times.jpeg"

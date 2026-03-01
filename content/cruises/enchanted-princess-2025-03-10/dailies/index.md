@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: enchanted-princess-2025-03-10
 resources:
     - name: daily-2025-03-10-treehouse-1
       src: "daily-2025-03-10-treehouse-1.jpg"

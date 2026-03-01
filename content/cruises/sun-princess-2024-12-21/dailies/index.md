@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: sun-princess-2024-12-21
 resources:
     - name: daily-2024-12-21-patter-1
       src: "daily-2024-12-21-patter-1.jpg"
