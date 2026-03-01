@@ -1,70 +1,70 @@
 ---
 title: Other
+cruise: Celebrity Edge, 2022-04-10
 resources:
-    - name: other-2022-04-10-baggage-tag
-      src: "other-2022-04-10-baggage-tag.jpg"
-      title: ""
-    - name: other-2022-04-10-shoreex-list
-      src: "other-2022-04-10-shoreex-list.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-list-2
-      src: "other-2022-04-10-shoreex-list-2.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-list-3
-      src: "other-2022-04-10-shoreex-list-3.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-list-4
-      src: "other-2022-04-10-shoreex-list-4.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-promo
-      src: "other-2022-04-10-shoreex-promo.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-promo-2
-      src: "other-2022-04-10-shoreex-promo-2.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-promo-3
-      src: "other-2022-04-10-shoreex-promo-3.jpeg"
-      title: ""
-    - name: other-2022-04-10-shoreex-promo-4
-      src: "other-2022-04-10-shoreex-promo-4.jpeg"
-      title: ""
-    - name: other-2022-04-10-spa-price-list
-      src: "other-2022-04-10-spa-price-list.jpeg"
-      title: ""
-    - name: other-2022-04-10-spa-price-list-2
-      src: "other-2022-04-10-spa-price-list-2.jpeg"
-      title: ""
-    - name: other-2022-04-10-nassau-shoreex-promo
-      src: "other-2022-04-10-nassau-shoreex-promo.jpeg"
-      title: ""
-    - name: other-2022-04-11-mexico-shoreex-promo
-      src: "other-2022-04-11-mexico-shoreex-promo.jpeg"
-      title: ""
-    - name: other-2022-04-11-grand-cayman-shoreex-promo
-      src: "other-2022-04-11-grand-cayman-shoreex-promo.jpeg"
-      title: ""
-    - name: other-2022-04-11-ship-tours-promo
-      src: "other-2022-04-11-ship-tours-promo.jpeg"
-      title: ""
-    - name: other-2022-04-12-futurecruise-promo
-      src: "other-2022-04-12-futurecruise-promo.jpeg"
-      title: ""
-    - name: other-2022-04-12-futurecruise-promo-2
-      src: "other-2022-04-12-futurecruise-promo-2.jpeg"
-      title: ""
-    - name: other-2022-04-13-costa-maya-shoreex-promo
-      src: "other-2022-04-13-costa-maya-shoreex-promo.jpeg"
-      title: ""
-    - name: other-2022-04-14-cozumel-shoreex-promo
-      src: "other-2022-04-14-cozumel-shoreex-promo.jpeg"
-      title: ""
-    - name: other-2022-04-16-futurecruise-promo
-      src: "other-2022-04-16-futurecruise-promo.jpeg"
-      title: ""
-    - name: other-2022-04-16-futurecruise-promo-2
-      src: "other-2022-04-16-futurecruise-promo-2.jpeg"
-      title: ""
-
+  - name: other-2022-04-10-baggage-tag
+    src: other-2022-04-10-baggage-tag.jpg
+    title: ''
+  - name: other-2022-04-10-shoreex-list
+    src: other-2022-04-10-shoreex-list.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-list-2
+    src: other-2022-04-10-shoreex-list-2.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-list-3
+    src: other-2022-04-10-shoreex-list-3.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-list-4
+    src: other-2022-04-10-shoreex-list-4.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-promo
+    src: other-2022-04-10-shoreex-promo.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-promo-2
+    src: other-2022-04-10-shoreex-promo-2.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-promo-3
+    src: other-2022-04-10-shoreex-promo-3.jpeg
+    title: ''
+  - name: other-2022-04-10-shoreex-promo-4
+    src: other-2022-04-10-shoreex-promo-4.jpeg
+    title: ''
+  - name: other-2022-04-10-spa-price-list
+    src: other-2022-04-10-spa-price-list.jpeg
+    title: ''
+  - name: other-2022-04-10-spa-price-list-2
+    src: other-2022-04-10-spa-price-list-2.jpeg
+    title: ''
+  - name: other-2022-04-10-nassau-shoreex-promo
+    src: other-2022-04-10-nassau-shoreex-promo.jpeg
+    title: ''
+  - name: other-2022-04-11-mexico-shoreex-promo
+    src: other-2022-04-11-mexico-shoreex-promo.jpeg
+    title: ''
+  - name: other-2022-04-11-grand-cayman-shoreex-promo
+    src: other-2022-04-11-grand-cayman-shoreex-promo.jpeg
+    title: ''
+  - name: other-2022-04-11-ship-tours-promo
+    src: other-2022-04-11-ship-tours-promo.jpeg
+    title: ''
+  - name: other-2022-04-12-futurecruise-promo
+    src: other-2022-04-12-futurecruise-promo.jpeg
+    title: ''
+  - name: other-2022-04-12-futurecruise-promo-2
+    src: other-2022-04-12-futurecruise-promo-2.jpeg
+    title: ''
+  - name: other-2022-04-13-costa-maya-shoreex-promo
+    src: other-2022-04-13-costa-maya-shoreex-promo.jpeg
+    title: ''
+  - name: other-2022-04-14-cozumel-shoreex-promo
+    src: other-2022-04-14-cozumel-shoreex-promo.jpeg
+    title: ''
+  - name: other-2022-04-16-futurecruise-promo
+    src: other-2022-04-16-futurecruise-promo.jpeg
+    title: ''
+  - name: other-2022-04-16-futurecruise-promo-2
+    src: other-2022-04-16-futurecruise-promo-2.jpeg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

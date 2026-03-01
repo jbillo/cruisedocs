@@ -1,36 +1,31 @@
 ---
 title: Notices
+cruise: Enchanted Princess, 2025-03-10
 resources:
-    - name: notice-2025-03-10-sun-procedures
-      src: "notice-2025-03-10-sun-procedures.jpg"
-      title: ""
-
-    - name: notice-2025-03-12-st-thomas-port-info
-      src: "notice-2025-03-12-st-thomas-port-info.jpg"
-      title: ""
-
-    - name: notice-2025-03-13-st-maarten-port-info
-      src: "notice-2025-03-13-st-maarten-port-info.jpg"
-      title: ""
-
-    - name: notice-2025-03-14-antigua-port-info
-      src: "notice-2025-03-14-antigua-port-info.jpg"
-      title: ""
-
-    - name: notice-2025-03-15-st-kitts-port-info
-      src: "notice-2025-03-15-st-kitts-port-info.jpg"
-      title: ""
-
-    - name: notice-2025-03-16-tortola-port-info
-      src: "notice-2025-03-16-tortola-port-info.jpg"
-      title: ""
-
-    - name: notice-2025-03-18-disembark-info-1
-      src: "notice-2025-03-18-disembark-info-1.jpg"
-      title: ""
-    - name: notice-2025-03-18-disembark-info-2
-      src: "notice-2025-03-18-disembark-info-2.jpg"
-      title: ""
+  - name: notice-2025-03-10-sun-procedures
+    src: notice-2025-03-10-sun-procedures.jpg
+    title: ''
+  - name: notice-2025-03-12-st-thomas-port-info
+    src: notice-2025-03-12-st-thomas-port-info.jpg
+    title: ''
+  - name: notice-2025-03-13-st-maarten-port-info
+    src: notice-2025-03-13-st-maarten-port-info.jpg
+    title: ''
+  - name: notice-2025-03-14-antigua-port-info
+    src: notice-2025-03-14-antigua-port-info.jpg
+    title: ''
+  - name: notice-2025-03-15-st-kitts-port-info
+    src: notice-2025-03-15-st-kitts-port-info.jpg
+    title: ''
+  - name: notice-2025-03-16-tortola-port-info
+    src: notice-2025-03-16-tortola-port-info.jpg
+    title: ''
+  - name: notice-2025-03-18-disembark-info-1
+    src: notice-2025-03-18-disembark-info-1.jpg
+    title: ''
+  - name: notice-2025-03-18-disembark-info-2
+    src: notice-2025-03-18-disembark-info-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

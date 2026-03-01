@@ -1,66 +1,58 @@
 ---
 title: Other
+cruise: Discovery Princess, 2024-05-18
 resources:
-    - name: other-2024-05-18-shopping-show-1
-      src: "other-2024-05-18-shopping-show-1.jpg"
-      title: ""
-    - name: other-2024-05-18-shopping-show-2
-      src: "other-2024-05-18-shopping-show-2.jpg"
-      title: ""
-    - name: other-2024-05-18-spa-flyer-1
-      src: "other-2024-05-18-spa-flyer-1.jpg"
-      title: ""
-    - name: other-2024-05-18-spa-flyer-2
-      src: "other-2024-05-18-spa-flyer-2.jpg"
-      title: ""
-
-    - name: other-2024-05-19-medallionpay-1
-      src: "other-2024-05-19-medallionpay-1.jpg"
-      title: ""
-    - name: other-2024-05-19-medallionpay-2
-      src: "other-2024-05-19-medallionpay-2.jpg"
-      title: ""
-
-    - name: other-2024-05-20-first-impressions
-      src: "other-2024-05-20-first-impressions.jpg"
-      title: ""
-
-    - name: other-2024-05-21-skagway-shoreex
-      src: "other-2024-05-21-skagway-shoreex.jpg"
-      title: ""
-
-    - name: other-2024-05-22-glacier-bay-guide-1
-      src: "other-2024-05-22-glacier-bay-guide-1.jpg"
-      title: ""
-    - name: other-2024-05-22-glacier-bay-guide-2
-      src: "other-2024-05-22-glacier-bay-guide-2.jpg"
-      title: ""
-    - name: other-2024-05-22-glacier-bay-guide-3
-      src: "other-2024-05-22-glacier-bay-guide-3.jpg"
-      title: ""
-    - name: other-2024-05-22-glacier-bay-guide-4
-      src: "other-2024-05-22-glacier-bay-guide-4.jpg"
-      title: ""
-
-    - name: other-2024-05-23-art-auction-flyer-1
-      src: "other-2024-05-23-art-auction-flyer-1.jpg"
-      title: ""
-    - name: other-2024-05-23-art-auction-flyer-2
-      src: "other-2024-05-23-art-auction-flyer-2.jpg"
-      title: ""
-
-    - name: other-2024-05-23-ketchikan-shoreex
-      src: "other-2024-05-23-ketchikan-shoreex.jpg"
-      title: ""
-
-    - name: other-2024-05-24-victoria-shoreex
-      src: "other-2024-05-24-victoria-shoreex.jpg"
-      title: ""
-
-    - name: other-2024-05-24-effy-flyer
-      src: "other-2024-05-24-effy-flyer.jpg"
-      title: ""
-
+  - name: other-2024-05-18-shopping-show-1
+    src: other-2024-05-18-shopping-show-1.jpg
+    title: ''
+  - name: other-2024-05-18-shopping-show-2
+    src: other-2024-05-18-shopping-show-2.jpg
+    title: ''
+  - name: other-2024-05-18-spa-flyer-1
+    src: other-2024-05-18-spa-flyer-1.jpg
+    title: ''
+  - name: other-2024-05-18-spa-flyer-2
+    src: other-2024-05-18-spa-flyer-2.jpg
+    title: ''
+  - name: other-2024-05-19-medallionpay-1
+    src: other-2024-05-19-medallionpay-1.jpg
+    title: ''
+  - name: other-2024-05-19-medallionpay-2
+    src: other-2024-05-19-medallionpay-2.jpg
+    title: ''
+  - name: other-2024-05-20-first-impressions
+    src: other-2024-05-20-first-impressions.jpg
+    title: ''
+  - name: other-2024-05-21-skagway-shoreex
+    src: other-2024-05-21-skagway-shoreex.jpg
+    title: ''
+  - name: other-2024-05-22-glacier-bay-guide-1
+    src: other-2024-05-22-glacier-bay-guide-1.jpg
+    title: ''
+  - name: other-2024-05-22-glacier-bay-guide-2
+    src: other-2024-05-22-glacier-bay-guide-2.jpg
+    title: ''
+  - name: other-2024-05-22-glacier-bay-guide-3
+    src: other-2024-05-22-glacier-bay-guide-3.jpg
+    title: ''
+  - name: other-2024-05-22-glacier-bay-guide-4
+    src: other-2024-05-22-glacier-bay-guide-4.jpg
+    title: ''
+  - name: other-2024-05-23-art-auction-flyer-1
+    src: other-2024-05-23-art-auction-flyer-1.jpg
+    title: ''
+  - name: other-2024-05-23-art-auction-flyer-2
+    src: other-2024-05-23-art-auction-flyer-2.jpg
+    title: ''
+  - name: other-2024-05-23-ketchikan-shoreex
+    src: other-2024-05-23-ketchikan-shoreex.jpg
+    title: ''
+  - name: other-2024-05-24-victoria-shoreex
+    src: other-2024-05-24-victoria-shoreex.jpg
+    title: ''
+  - name: other-2024-05-24-effy-flyer
+    src: other-2024-05-24-effy-flyer.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

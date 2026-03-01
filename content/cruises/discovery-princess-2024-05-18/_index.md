@@ -1,6 +1,9 @@
 ---
 title: Discovery Princess, 2024-05-18
+cruise_start_date: 2024-05-18
+cruise_end_date: ''
 ---
+
 <!-- markdownlint-disable MD033 -->
 
 ## Cruise information

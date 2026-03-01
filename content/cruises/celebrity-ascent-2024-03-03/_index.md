@@ -1,6 +1,9 @@
 ---
 title: Celebrity Ascent, 2024-03-03
+cruise_start_date: 2024-03-03
+cruise_end_date: ''
 ---
+
 <!-- markdownlint-disable MD033 -->
 
 ## Cruise information

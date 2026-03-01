@@ -1,14 +1,13 @@
 ---
 title: Menus
+cruise: Discovery Princess, 2024-05-18
 resources:
-    - name: menu-2024-05-18-stateroom-breakfast
-      src: "menu-2024-05-18-stateroom-breakfast.jpg"
-      title: ""
-
-    - name: menu-2024-05-18-buffet-specials
-      src: "menu-2024-05-18-buffet-specials.jpg"
-      title: ""
-
+  - name: menu-2024-05-18-stateroom-breakfast
+    src: menu-2024-05-18-stateroom-breakfast.jpg
+    title: ''
+  - name: menu-2024-05-18-buffet-specials
+    src: menu-2024-05-18-buffet-specials.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

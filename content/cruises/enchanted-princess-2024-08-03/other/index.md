@@ -1,51 +1,46 @@
 ---
 title: Other
+cruise: Enchanted Princess, 2024-08-03
 resources:
-    - name: other-2024-08-03-upgrade-options-1
-      src: "other-2024-08-03-upgrade-options-1.jpg"
-      title: ""
-    - name: other-2024-08-03-upgrade-options-2
-      src: "other-2024-08-03-upgrade-options-2.jpg"
-      title: ""
-    - name: other-2024-08-03-shoreex-promo-1
-      src: "other-2024-08-03-shoreex-promo-1.jpg"
-      title: ""
-    - name: other-2024-08-03-shoreex-promo-2
-      src: "other-2024-08-03-shoreex-promo-2.jpg"
-      title: ""
-
-    - name: other-2024-08-04-princess-cays-skipped-port
-      src: "other-2024-08-04-princess-cays-skipped-port.jpg"
-      title: ""
-    - name: other-2024-08-04-princess-cays-skipped-port-reverse
-      src: "other-2024-08-04-princess-cays-skipped-port-reverse.jpg"
-      title: ""
-
-    - name: other-2024-08-04-champagne-art-auction-1
-      src: "other-2024-08-04-champagne-art-auction-1.jpg"
-      title: ""
-    - name: other-2024-08-04-champagne-art-auction-2
-      src: "other-2024-08-04-champagne-art-auction-2.jpg"
-      title: ""
-
-    - name: other-2024-08-06-flash-sale-st-thomas
-      src: "other-2024-08-06-flash-sale-st-thomas.jpg"
-      title: ""
-
-    - name: other-2024-08-07-art-auction-flyer-1
-      src: "other-2024-08-07-art-auction-flyer-1.jpg"
-      title: ""
-    - name: other-2024-08-07-art-auction-flyer-2
-      src: "other-2024-08-07-art-auction-flyer-2.jpg"
-      title: ""
-
-    - name: other-2024-08-08-art-auction-flyer-1
-      src: "other-2024-08-08-art-auction-flyer-1.jpg"
-      title: ""
-    - name: other-2024-08-08-art-auction-flyer-2
-      src: "other-2024-08-08-art-auction-flyer-2.jpg"
-      title: ""
-
+  - name: other-2024-08-03-upgrade-options-1
+    src: other-2024-08-03-upgrade-options-1.jpg
+    title: ''
+  - name: other-2024-08-03-upgrade-options-2
+    src: other-2024-08-03-upgrade-options-2.jpg
+    title: ''
+  - name: other-2024-08-03-shoreex-promo-1
+    src: other-2024-08-03-shoreex-promo-1.jpg
+    title: ''
+  - name: other-2024-08-03-shoreex-promo-2
+    src: other-2024-08-03-shoreex-promo-2.jpg
+    title: ''
+  - name: other-2024-08-04-princess-cays-skipped-port
+    src: other-2024-08-04-princess-cays-skipped-port.jpg
+    title: ''
+  - name: other-2024-08-04-princess-cays-skipped-port-reverse
+    src: other-2024-08-04-princess-cays-skipped-port-reverse.jpg
+    title: ''
+  - name: other-2024-08-04-champagne-art-auction-1
+    src: other-2024-08-04-champagne-art-auction-1.jpg
+    title: ''
+  - name: other-2024-08-04-champagne-art-auction-2
+    src: other-2024-08-04-champagne-art-auction-2.jpg
+    title: ''
+  - name: other-2024-08-06-flash-sale-st-thomas
+    src: other-2024-08-06-flash-sale-st-thomas.jpg
+    title: ''
+  - name: other-2024-08-07-art-auction-flyer-1
+    src: other-2024-08-07-art-auction-flyer-1.jpg
+    title: ''
+  - name: other-2024-08-07-art-auction-flyer-2
+    src: other-2024-08-07-art-auction-flyer-2.jpg
+    title: ''
+  - name: other-2024-08-08-art-auction-flyer-1
+    src: other-2024-08-08-art-auction-flyer-1.jpg
+    title: ''
+  - name: other-2024-08-08-art-auction-flyer-2
+    src: other-2024-08-08-art-auction-flyer-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

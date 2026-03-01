@@ -1,10 +1,10 @@
 ---
 title: Menus
+cruise: Sun Princess, 2024-12-21
 resources:
-    - name: menu-2024-12-22-breakfast-door-hanger
-      src: "menu-2024-12-22-breakfast-door-hanger.jpg"
-      title: ""
-
+  - name: menu-2024-12-22-breakfast-door-hanger
+    src: menu-2024-12-22-breakfast-door-hanger.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

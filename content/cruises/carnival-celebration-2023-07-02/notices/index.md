@@ -1,20 +1,21 @@
 ---
 title: Notices
+cruise: Carnival Celebration, 2023-07-02
 resources:
-    - name: notice-2023-07-02-good-to-know
-      src: "notice-2023-07-02-good-to-know.jpeg"
-      title: ""
-    - name: notice-2023-07-02-good-to-know-2
-      src: "notice-2023-07-02-good-to-know-2.jpeg"
-      title: ""
-    - name: notice-2023-07-07-debarkation-information
-      src: "notice-2023-07-07-debarkation-information.jpeg"
-      title: ""
-    - name: notice-2023-07-07-debarkation-information-2
-      src: "notice-2023-07-07-debarkation-information-2.jpeg"
-      title: ""
-
+  - name: notice-2023-07-02-good-to-know
+    src: notice-2023-07-02-good-to-know.jpeg
+    title: ''
+  - name: notice-2023-07-02-good-to-know-2
+    src: notice-2023-07-02-good-to-know-2.jpeg
+    title: ''
+  - name: notice-2023-07-07-debarkation-information
+    src: notice-2023-07-07-debarkation-information.jpeg
+    title: ''
+  - name: notice-2023-07-07-debarkation-information-2
+    src: notice-2023-07-07-debarkation-information-2.jpeg
+    title: ''
 ---
+
 {{< include file="_includes/click-to-expand.md" type="page" >}}
 
 {{< toc >}}

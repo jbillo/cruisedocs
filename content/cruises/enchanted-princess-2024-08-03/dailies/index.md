@@ -1,132 +1,128 @@
 ---
 title: Dailies
+cruise: Enchanted Princess, 2024-08-03
+cruise_slug: enchanted-princess-2024-08-03
 resources:
-    - name: daily-2024-08-03-patter-1
-      src: "daily-2024-08-03-patter-1.jpg"
-      title: ""
-    - name: daily-2024-08-03-patter-2
-      src: "daily-2024-08-03-patter-2.jpg"
-      title: ""
-    - name: daily-2024-08-03-patter-3
-      src: "daily-2024-08-03-patter-3.jpg"
-      title: ""
-    - name: daily-2024-08-03-patter-4
-      src: "daily-2024-08-03-patter-4.jpg"
-      title: ""
-    - name: daily-2024-08-03-patter-5
-      src: "daily-2024-08-03-patter-5.jpg"
-      title: ""
-    - name: daily-2024-08-03-patter-6
-      src: "daily-2024-08-03-patter-6.jpg"
-      title: ""
-
-    - name: daily-2024-08-03-camp-discovery-tree-house-1
-      src: "daily-2024-08-03-camp-discovery-tree-house-1.jpg"
-      title: ""
-    - name: daily-2024-08-03-camp-discovery-tree-house-2
-      src: "daily-2024-08-03-camp-discovery-tree-house-2.jpg"
-      title: ""
-    - name: daily-2024-08-03-camp-discovery-tree-house-3
-      src: "daily-2024-08-03-camp-discovery-tree-house-3.jpg"
-      title: ""
-    - name: daily-2024-08-03-camp-discovery-tree-house-4
-      src: "daily-2024-08-03-camp-discovery-tree-house-4.jpg"
-      title: ""
-
-    - name: daily-2024-08-04-patter-1
-      src: "daily-2024-08-04-patter-1.jpg"
-      title: ""
-    - name: daily-2024-08-04-patter-2
-      src: "daily-2024-08-04-patter-2.jpg"
-      title: ""
-    - name: daily-2024-08-04-patter-3
-      src: "daily-2024-08-04-patter-3.jpg"
-      title: ""
-    - name: daily-2024-08-04-patter-4
-      src: "daily-2024-08-04-patter-4.jpg"
-      title: ""
-    - name: daily-2024-08-04-patter-5
-      src: "daily-2024-08-04-patter-5.jpg"
-      title: ""
-    - name: daily-2024-08-04-patter-6
-      src: "daily-2024-08-04-patter-6.jpg"
-      title: ""
-
-    - name: daily-2024-08-05-patter-1
-      src: "daily-2024-08-05-patter-1.jpg"
-      title: ""
-    - name: daily-2024-08-05-patter-2
-      src: "daily-2024-08-05-patter-2.jpg"
-      title: ""
-    - name: daily-2024-08-05-patter-3
-      src: "daily-2024-08-05-patter-3.jpg"
-      title: ""
-    - name: daily-2024-08-05-patter-4
-      src: "daily-2024-08-05-patter-4.jpg"
-      title: ""
-    - name: daily-2024-08-05-patter-5
-      src: "daily-2024-08-05-patter-5.jpg"
-      title: ""
-    - name: daily-2024-08-05-patter-6
-      src: "daily-2024-08-05-patter-6.jpg"
-      title: ""
-
-    - name: daily-2024-08-06-patter-1
-      src: "daily-2024-08-06-patter-1.jpg"
-      title: ""
-    - name: daily-2024-08-06-patter-2
-      src: "daily-2024-08-06-patter-2.jpg"
-      title: ""
-    - name: daily-2024-08-06-patter-3
-      src: "daily-2024-08-06-patter-3.jpg"
-      title: ""
-    - name: daily-2024-08-06-patter-4
-      src: "daily-2024-08-06-patter-4.jpg"
-      title: ""
-    - name: daily-2024-08-06-patter-5
-      src: "daily-2024-08-06-patter-5.jpg"
-      title: ""
-    - name: daily-2024-08-06-patter-6
-      src: "daily-2024-08-06-patter-6.jpg"
-      title: ""
-
-    - name: daily-2024-08-08-patter-1
-      src: "daily-2024-08-08-patter-1.jpg"
-      title: ""
-    - name: daily-2024-08-08-patter-2
-      src: "daily-2024-08-08-patter-2.jpg"
-      title: ""
-    - name: daily-2024-08-08-patter-3
-      src: "daily-2024-08-08-patter-3.jpg"
-      title: ""
-    - name: daily-2024-08-08-patter-4
-      src: "daily-2024-08-08-patter-4.jpg"
-      title: ""
-    - name: daily-2024-08-08-patter-5
-      src: "daily-2024-08-08-patter-5.jpg"
-      title: ""
-    - name: daily-2024-08-08-patter-6
-      src: "daily-2024-08-08-patter-6.jpg"
-      title: ""
-
-    - name: daily-2024-08-09-patter-1
-      src: "daily-2024-08-09-patter-1.jpg"
-      title: ""
-    - name: daily-2024-08-09-patter-2
-      src: "daily-2024-08-09-patter-2.jpg"
-      title: ""
-    - name: daily-2024-08-09-patter-3
-      src: "daily-2024-08-09-patter-3.jpg"
-      title: ""
-    - name: daily-2024-08-09-patter-4
-      src: "daily-2024-08-09-patter-4.jpg"
-      title: ""
-    - name: daily-2024-08-09-patter-5
-      src: "daily-2024-08-09-patter-5.jpg"
-      title: ""
-    - name: daily-2024-08-09-patter-6
-      src: "daily-2024-08-09-patter-6.jpg"
-      title: ""
+  - name: daily-2024-08-03-patter-1
+    src: daily-2024-08-03-patter-1.jpg
+    title: ''
+  - name: daily-2024-08-03-patter-2
+    src: daily-2024-08-03-patter-2.jpg
+    title: ''
+  - name: daily-2024-08-03-patter-3
+    src: daily-2024-08-03-patter-3.jpg
+    title: ''
+  - name: daily-2024-08-03-patter-4
+    src: daily-2024-08-03-patter-4.jpg
+    title: ''
+  - name: daily-2024-08-03-patter-5
+    src: daily-2024-08-03-patter-5.jpg
+    title: ''
+  - name: daily-2024-08-03-patter-6
+    src: daily-2024-08-03-patter-6.jpg
+    title: ''
+  - name: daily-2024-08-03-camp-discovery-tree-house-1
+    src: daily-2024-08-03-camp-discovery-tree-house-1.jpg
+    title: ''
+  - name: daily-2024-08-03-camp-discovery-tree-house-2
+    src: daily-2024-08-03-camp-discovery-tree-house-2.jpg
+    title: ''
+  - name: daily-2024-08-03-camp-discovery-tree-house-3
+    src: daily-2024-08-03-camp-discovery-tree-house-3.jpg
+    title: ''
+  - name: daily-2024-08-03-camp-discovery-tree-house-4
+    src: daily-2024-08-03-camp-discovery-tree-house-4.jpg
+    title: ''
+  - name: daily-2024-08-04-patter-1
+    src: daily-2024-08-04-patter-1.jpg
+    title: ''
+  - name: daily-2024-08-04-patter-2
+    src: daily-2024-08-04-patter-2.jpg
+    title: ''
+  - name: daily-2024-08-04-patter-3
+    src: daily-2024-08-04-patter-3.jpg
+    title: ''
+  - name: daily-2024-08-04-patter-4
+    src: daily-2024-08-04-patter-4.jpg
+    title: ''
+  - name: daily-2024-08-04-patter-5
+    src: daily-2024-08-04-patter-5.jpg
+    title: ''
+  - name: daily-2024-08-04-patter-6
+    src: daily-2024-08-04-patter-6.jpg
+    title: ''
+  - name: daily-2024-08-05-patter-1
+    src: daily-2024-08-05-patter-1.jpg
+    title: ''
+  - name: daily-2024-08-05-patter-2
+    src: daily-2024-08-05-patter-2.jpg
+    title: ''
+  - name: daily-2024-08-05-patter-3
+    src: daily-2024-08-05-patter-3.jpg
+    title: ''
+  - name: daily-2024-08-05-patter-4
+    src: daily-2024-08-05-patter-4.jpg
+    title: ''
+  - name: daily-2024-08-05-patter-5
+    src: daily-2024-08-05-patter-5.jpg
+    title: ''
+  - name: daily-2024-08-05-patter-6
+    src: daily-2024-08-05-patter-6.jpg
+    title: ''
+  - name: daily-2024-08-06-patter-1
+    src: daily-2024-08-06-patter-1.jpg
+    title: ''
+  - name: daily-2024-08-06-patter-2
+    src: daily-2024-08-06-patter-2.jpg
+    title: ''
+  - name: daily-2024-08-06-patter-3
+    src: daily-2024-08-06-patter-3.jpg
+    title: ''
+  - name: daily-2024-08-06-patter-4
+    src: daily-2024-08-06-patter-4.jpg
+    title: ''
+  - name: daily-2024-08-06-patter-5
+    src: daily-2024-08-06-patter-5.jpg
+    title: ''
+  - name: daily-2024-08-06-patter-6
+    src: daily-2024-08-06-patter-6.jpg
+    title: ''
+  - name: daily-2024-08-08-patter-1
+    src: daily-2024-08-08-patter-1.jpg
+    title: ''
+  - name: daily-2024-08-08-patter-2
+    src: daily-2024-08-08-patter-2.jpg
+    title: ''
+  - name: daily-2024-08-08-patter-3
+    src: daily-2024-08-08-patter-3.jpg
+    title: ''
+  - name: daily-2024-08-08-patter-4
+    src: daily-2024-08-08-patter-4.jpg
+    title: ''
+  - name: daily-2024-08-08-patter-5
+    src: daily-2024-08-08-patter-5.jpg
+    title: ''
+  - name: daily-2024-08-08-patter-6
+    src: daily-2024-08-08-patter-6.jpg
+    title: ''
+  - name: daily-2024-08-09-patter-1
+    src: daily-2024-08-09-patter-1.jpg
+    title: ''
+  - name: daily-2024-08-09-patter-2
+    src: daily-2024-08-09-patter-2.jpg
+    title: ''
+  - name: daily-2024-08-09-patter-3
+    src: daily-2024-08-09-patter-3.jpg
+    title: ''
+  - name: daily-2024-08-09-patter-4
+    src: daily-2024-08-09-patter-4.jpg
+    title: ''
+  - name: daily-2024-08-09-patter-5
+    src: daily-2024-08-09-patter-5.jpg
+    title: ''
+  - name: daily-2024-08-09-patter-6
+    src: daily-2024-08-09-patter-6.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}

@@ -1,0 +1,196 @@
+module:
+  imports:
+    - path: github.com/privatemaker/headless-cms
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - HeadlessCMSConfig
+
+baseURL: https://cruisedocs.billo.ca/
+languageCode: en-us
+title: Cruise Docs
+theme: hugo-geekdoc
+
+pluralizeListTitles: false
+
+# Geekdoc required configuration
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+disablePathToLower: true
+
+# Required if you want to render robots.txt template
+enableRobotsTXT: true
+
+# Increase timeout to 15m (900s) since we render some large images on a GitHub Actions runner
+timeout: 900s
+
+markup:
+  goldmark:
+    renderer:
+      # Needed for mermaid shortcode
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
+
+taxonomies:
+  tag: tags
+
+params:
+  geekdocRepo: https://github.com/jbillo/cruisedocs
+  geekdocEditPath: edit/main
+  headless_cms:
+    engine: "sveltia"
+    site_url: "https://cruisedocs.billo.ca"
+    backend:
+      name: github
+      repo: jbillo/cruisedocs
+    collections:
+      - name: pages
+        label: Pages
+        files:
+          - name: root
+            label: Root
+            file: content/_index.md
+            fields:
+              - name: title
+                label: Title
+              - name: body
+                label: Body
+                widget: richtext
+
+      - name: cruises
+        label: Cruises
+        # identifier_field: title  # default
+        folder: "content/cruises"
+        path: "{{slug}}-{{cruise_start_date}}/_index"
+        create: true
+        media_folder: ''
+        public_folder: ''
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Cruise Start Date"
+            name: "cruise_start_date"
+            widget: "datetime"
+            type: "date"
+          - label: "Cruise End Date"
+            name: "cruise_end_date"
+            widget: "datetime"
+            type: "date"
+            required: false
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+
+      - name: dailies
+        folder: "content/cruises"
+        label: "Dailies"
+        path: "{{cruise}}/dailies/index"
+        identifier_field: cruise
+        create: true
+        media_folder: ''
+        public_folder: ''
+        fields:
+        - label: "Title"
+          name: "title"
+          widget: "hidden"
+          default: "Dailies"
+        - label: "Cruise"
+          name: "cruise"
+          widget: "relation"
+          collection: "cruises"
+          search_fields:
+            - cruise_start_date
+            - title
+          display_fields:
+            - "{{title}} ({{cruise_start_date}})"
+          value_field: title
+        - label: "Body"
+          name: "body"
+          widget: "markdown"
+
+      - name: notices
+        folder: "content/cruises"
+        label: "Notices"
+        path: "{{cruise}}/notices/index"
+        identifier_field: cruise
+        create: true
+        media_folder: ''
+        public_folder: ''
+        fields:
+        - label: "Title"
+          name: "title"
+          widget: "hidden"
+        - label: "Cruise"
+          name: "cruise"
+          widget: "relation"
+          collection: "cruises"
+          search_fields:
+            - cruise_start_date
+            - title
+          display_fields:
+            - "{{title}} ({{cruise_start_date}})"
+          value_field: title
+        - label: "Body"
+          name: "body"
+          widget: "markdown"
+
+      - name: menus
+        folder: "content/cruises"
+        label: "Menus"
+        path: "{{cruise}}/menus/index"
+        identifier_field: cruise
+        create: true
+        media_folder: ''
+        public_folder: ''
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "hidden"
+          - label: "Cruise"
+            name: "cruise"
+            widget: "relation"
+            collection: "cruises"
+            search_fields:
+              - cruise_start_date
+              - title
+            display_fields:
+              - "{{title}} ({{cruise_start_date}})"
+            value_field: title
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+
+      - name: other
+        folder: "content/cruises"
+        label: "Other"
+        path: "{{cruise}}/other/index"
+        identifier_field: cruise
+        create: true
+        media_folder: ''
+        public_folder: ''
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "hidden"
+          - label: "Cruise"
+            name: "cruise"
+            widget: "relation"
+            collection: "cruises"
+            search_fields:
+              - cruise_start_date
+              - title
+            display_fields:
+              - "{{title}} ({{cruise_start_date}})"
+            value_field: title
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+
+caches:
+  images:
+    dir: :cacheDir/images

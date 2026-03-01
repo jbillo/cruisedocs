@@ -1,10 +1,10 @@
 ---
 title: Menus
+cruise: Celebrity Ascent, 2024-03-03
 resources:
-    - name: menu-2024-03-05-chefs-table
-      src: "menu-2024-03-05-chefs-table.jpg"
-      title: ""
-
+  - name: menu-2024-03-05-chefs-table
+    src: menu-2024-03-05-chefs-table.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
