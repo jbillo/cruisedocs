@@ -1,5 +1,6 @@
 ---
 title: Dailies
+cruise_slug: celebrity-ascent-2024-03-03
 resources:
     - name: daily-2024-03-03-celebrity-today-1
       src: "daily-2024-03-03-celebrity-today-1.jpg"
