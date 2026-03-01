@@ -1,140 +1,134 @@
 ---
 title: Dailies
+cruise: Celebrity Ascent, 2024-03-03
 cruise_slug: celebrity-ascent-2024-03-03
 resources:
-    - name: daily-2024-03-03-celebrity-today-1
-      src: "daily-2024-03-03-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-03-celebrity-today-2
-      src: "daily-2024-03-03-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-03-celebrity-today-3
-      src: "daily-2024-03-03-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-03-celebrity-today-4
-      src: "daily-2024-03-03-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-03-celebrity-today-5
-      src: "daily-2024-03-03-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-03-celebrity-today-6
-      src: "daily-2024-03-03-celebrity-today-6.jpg"
-      title: ""
-
-    - name: daily-2024-03-04-celebrity-today-1
-      src: "daily-2024-03-04-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-04-celebrity-today-2
-      src: "daily-2024-03-04-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-04-celebrity-today-3
-      src: "daily-2024-03-04-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-04-celebrity-today-4
-      src: "daily-2024-03-04-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-04-celebrity-today-5
-      src: "daily-2024-03-04-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-04-celebrity-today-6
-      src: "daily-2024-03-04-celebrity-today-6.jpg"
-      title: ""
-
-    - name: daily-2024-03-05-celebrity-today-1
-      src: "daily-2024-03-05-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-05-celebrity-today-2
-      src: "daily-2024-03-05-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-05-celebrity-today-3
-      src: "daily-2024-03-05-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-05-celebrity-today-4
-      src: "daily-2024-03-05-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-05-celebrity-today-5
-      src: "daily-2024-03-05-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-05-celebrity-today-6
-      src: "daily-2024-03-05-celebrity-today-6.jpg"
-      title: ""
-
-    - name: daily-2024-03-06-celebrity-today-1
-      src: "daily-2024-03-06-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-06-celebrity-today-2
-      src: "daily-2024-03-06-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-06-celebrity-today-3
-      src: "daily-2024-03-06-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-06-celebrity-today-4
-      src: "daily-2024-03-06-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-06-celebrity-today-5
-      src: "daily-2024-03-06-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-06-celebrity-today-6
-      src: "daily-2024-03-06-celebrity-today-6.jpg"
-      title: ""
-
-    - name: daily-2024-03-07-celebrity-today-1
-      src: "daily-2024-03-07-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-07-celebrity-today-2
-      src: "daily-2024-03-07-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-07-celebrity-today-3
-      src: "daily-2024-03-07-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-07-celebrity-today-4
-      src: "daily-2024-03-07-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-07-celebrity-today-5
-      src: "daily-2024-03-07-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-07-celebrity-today-6
-      src: "daily-2024-03-07-celebrity-today-6.jpg"
-      title: ""
-
-    - name: daily-2024-03-08-celebrity-today-1
-      src: "daily-2024-03-08-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-08-celebrity-today-2
-      src: "daily-2024-03-08-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-08-celebrity-today-3
-      src: "daily-2024-03-08-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-08-celebrity-today-4
-      src: "daily-2024-03-08-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-08-celebrity-today-5
-      src: "daily-2024-03-08-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-08-celebrity-today-6
-      src: "daily-2024-03-08-celebrity-today-6.jpg"
-      title: ""
-
-    - name: daily-2024-03-09-celebrity-today-1
-      src: "daily-2024-03-09-celebrity-today-1.jpg"
-      title: ""
-    - name: daily-2024-03-09-celebrity-today-2
-      src: "daily-2024-03-09-celebrity-today-2.jpg"
-      title: ""
-    - name: daily-2024-03-09-celebrity-today-3
-      src: "daily-2024-03-09-celebrity-today-3.jpg"
-      title: ""
-    - name: daily-2024-03-09-celebrity-today-4
-      src: "daily-2024-03-09-celebrity-today-4.jpg"
-      title: ""
-    - name: daily-2024-03-09-celebrity-today-5
-      src: "daily-2024-03-09-celebrity-today-5.jpg"
-      title: ""
-    - name: daily-2024-03-09-celebrity-today-6
-      src: "daily-2024-03-09-celebrity-today-6.jpg"
-      title: ""
-
+  - name: daily-2024-03-03-celebrity-today-1
+    src: daily-2024-03-03-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-03-celebrity-today-2
+    src: daily-2024-03-03-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-03-celebrity-today-3
+    src: daily-2024-03-03-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-03-celebrity-today-4
+    src: daily-2024-03-03-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-03-celebrity-today-5
+    src: daily-2024-03-03-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-03-celebrity-today-6
+    src: daily-2024-03-03-celebrity-today-6.jpg
+    title: ''
+  - name: daily-2024-03-04-celebrity-today-1
+    src: daily-2024-03-04-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-04-celebrity-today-2
+    src: daily-2024-03-04-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-04-celebrity-today-3
+    src: daily-2024-03-04-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-04-celebrity-today-4
+    src: daily-2024-03-04-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-04-celebrity-today-5
+    src: daily-2024-03-04-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-04-celebrity-today-6
+    src: daily-2024-03-04-celebrity-today-6.jpg
+    title: ''
+  - name: daily-2024-03-05-celebrity-today-1
+    src: daily-2024-03-05-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-05-celebrity-today-2
+    src: daily-2024-03-05-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-05-celebrity-today-3
+    src: daily-2024-03-05-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-05-celebrity-today-4
+    src: daily-2024-03-05-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-05-celebrity-today-5
+    src: daily-2024-03-05-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-05-celebrity-today-6
+    src: daily-2024-03-05-celebrity-today-6.jpg
+    title: ''
+  - name: daily-2024-03-06-celebrity-today-1
+    src: daily-2024-03-06-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-06-celebrity-today-2
+    src: daily-2024-03-06-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-06-celebrity-today-3
+    src: daily-2024-03-06-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-06-celebrity-today-4
+    src: daily-2024-03-06-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-06-celebrity-today-5
+    src: daily-2024-03-06-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-06-celebrity-today-6
+    src: daily-2024-03-06-celebrity-today-6.jpg
+    title: ''
+  - name: daily-2024-03-07-celebrity-today-1
+    src: daily-2024-03-07-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-07-celebrity-today-2
+    src: daily-2024-03-07-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-07-celebrity-today-3
+    src: daily-2024-03-07-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-07-celebrity-today-4
+    src: daily-2024-03-07-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-07-celebrity-today-5
+    src: daily-2024-03-07-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-07-celebrity-today-6
+    src: daily-2024-03-07-celebrity-today-6.jpg
+    title: ''
+  - name: daily-2024-03-08-celebrity-today-1
+    src: daily-2024-03-08-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-08-celebrity-today-2
+    src: daily-2024-03-08-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-08-celebrity-today-3
+    src: daily-2024-03-08-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-08-celebrity-today-4
+    src: daily-2024-03-08-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-08-celebrity-today-5
+    src: daily-2024-03-08-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-08-celebrity-today-6
+    src: daily-2024-03-08-celebrity-today-6.jpg
+    title: ''
+  - name: daily-2024-03-09-celebrity-today-1
+    src: daily-2024-03-09-celebrity-today-1.jpg
+    title: ''
+  - name: daily-2024-03-09-celebrity-today-2
+    src: daily-2024-03-09-celebrity-today-2.jpg
+    title: ''
+  - name: daily-2024-03-09-celebrity-today-3
+    src: daily-2024-03-09-celebrity-today-3.jpg
+    title: ''
+  - name: daily-2024-03-09-celebrity-today-4
+    src: daily-2024-03-09-celebrity-today-4.jpg
+    title: ''
+  - name: daily-2024-03-09-celebrity-today-5
+    src: daily-2024-03-09-celebrity-today-5.jpg
+    title: ''
+  - name: daily-2024-03-09-celebrity-today-6
+    src: daily-2024-03-09-celebrity-today-6.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
