@@ -48,6 +48,19 @@ params:
       name: github
       repo: jbillo/cruisedocs
     collections:
+      - name: pages
+        label: Pages
+        files:
+          - name: root
+            label: Root
+            file: content/_index.md
+            fields:
+              - name: title
+                label: Title
+              - name: body
+                label: Body
+                widget: richtext
+
       - name: cruises
         label: Cruises
         # identifier_field: title  # default
