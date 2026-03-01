@@ -1,6 +1,9 @@
 ---
 title: Carnival Celebration, 2023-07-02
+cruise_start_date: 2023-07-02
+cruise_end_date: ''
 ---
+
 <!-- markdownlint-disable MD033 -->
 
 ## Cruise information

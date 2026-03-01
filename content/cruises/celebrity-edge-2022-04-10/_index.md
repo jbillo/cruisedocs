@@ -1,6 +1,9 @@
 ---
 title: Celebrity Edge, 2022-04-10
+cruise_start_date: 2022-04-10
+cruise_end_date: ''
 ---
+
 <!-- markdownlint-disable MD033 -->
 
 ## Cruise information

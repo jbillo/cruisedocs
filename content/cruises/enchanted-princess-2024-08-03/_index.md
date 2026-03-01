@@ -1,6 +1,9 @@
 ---
 title: Enchanted Princess, 2024-08-03
+cruise_start_date: 2024-08-03
+cruise_end_date: ''
 ---
+
 <!-- I'm used to HTML tables, so: -->
 <!-- markdownlint-disable MD033 -->
 
