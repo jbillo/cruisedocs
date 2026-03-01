@@ -1,94 +1,89 @@
 ---
 title: Dailies
+cruise: Enchanted Princess, 2025-03-10
 cruise_slug: enchanted-princess-2025-03-10
 resources:
-    - name: daily-2025-03-10-treehouse-1
-      src: "daily-2025-03-10-treehouse-1.jpg"
-      title: ""
-    - name: daily-2025-03-10-treehouse-2
-      src: "daily-2025-03-10-treehouse-2.jpg"
-      title: ""
-
-    - name: daily-2025-03-11-patter-1
-      src: "daily-2025-03-11-patter-1.jpg"
-      title: ""
-    - name: daily-2025-03-11-patter-2
-      src: "daily-2025-03-11-patter-2.jpg"
-      title: ""
-    - name: daily-2025-03-11-patter-3
-      src: "daily-2025-03-11-patter-3.jpg"
-      title: ""
-    - name: daily-2025-03-11-patter-4
-      src: "daily-2025-03-11-patter-4.jpg"
-      title: ""
-    - name: daily-2025-03-11-patter-5
-      src: "daily-2025-03-11-patter-5.jpg"
-      title: ""
-    - name: daily-2025-03-11-patter-6
-      src: "daily-2025-03-11-patter-6.jpg"
-      title: ""
-
-    - name: daily-2025-03-12-patter-1
-      src: "daily-2025-03-12-patter-1.jpg"
-      title: ""
-    - name: daily-2025-03-12-patter-2
-      src: "daily-2025-03-12-patter-2.jpg"
-      title: ""
-    - name: daily-2025-03-12-patter-3
-      src: "daily-2025-03-12-patter-3.jpg"
-      title: ""
-    - name: daily-2025-03-12-patter-4
-      src: "daily-2025-03-12-patter-4.jpg"
-      title: ""
-    - name: daily-2025-03-12-patter-5
-      src: "daily-2025-03-12-patter-5.jpg"
-      title: ""
-    - name: daily-2025-03-12-patter-6
-      src: "daily-2025-03-12-patter-6.jpg"
-      title: ""
-
-    - name: daily-2025-03-13-patter-1
-      src: "daily-2025-03-13-patter-1.jpg"
-      title: ""
-    - name: daily-2025-03-13-patter-2
-      src: "daily-2025-03-13-patter-2.jpg"
-      title: ""
-    - name: daily-2025-03-13-patter-3
-      src: "daily-2025-03-13-patter-3.jpg"
-      title: ""
-    - name: daily-2025-03-13-patter-4
-      src: "daily-2025-03-13-patter-4.jpg"
-      title: ""
-    - name: daily-2025-03-13-patter-5
-      src: "daily-2025-03-13-patter-5.jpg"
-      title: ""
-    - name: daily-2025-03-13-patter-6
-      src: "daily-2025-03-13-patter-6.jpg"
-      title: ""
-
-    - name: daily-2025-03-14-patter-1
-      src: "daily-2025-03-14-patter-1.jpg"
-      title: ""
-    - name: daily-2025-03-14-patter-2
-      src: "daily-2025-03-14-patter-2.jpg"
-      title: ""
-    - name: daily-2025-03-14-patter-3
-      src: "daily-2025-03-14-patter-3.jpg"
-      title: ""
-    - name: daily-2025-03-14-patter-4
-      src: "daily-2025-03-14-patter-4.jpg"
-      title: ""
-    - name: daily-2025-03-14-patter-5
-      src: "daily-2025-03-14-patter-5.jpg"
-      title: ""
-    - name: daily-2025-03-14-patter-6
-      src: "daily-2025-03-14-patter-6.jpg"
-      title: ""
-
-    - name: daily-2025-03-17-family-fun-fair
-      src: "daily-2025-03-17-family-fun-fair.jpg"
-      title: ""
-
+  - name: daily-2025-03-10-treehouse-1
+    src: daily-2025-03-10-treehouse-1.jpg
+    title: ''
+  - name: daily-2025-03-10-treehouse-2
+    src: daily-2025-03-10-treehouse-2.jpg
+    title: ''
+  - name: daily-2025-03-11-patter-1
+    src: daily-2025-03-11-patter-1.jpg
+    title: ''
+  - name: daily-2025-03-11-patter-2
+    src: daily-2025-03-11-patter-2.jpg
+    title: ''
+  - name: daily-2025-03-11-patter-3
+    src: daily-2025-03-11-patter-3.jpg
+    title: ''
+  - name: daily-2025-03-11-patter-4
+    src: daily-2025-03-11-patter-4.jpg
+    title: ''
+  - name: daily-2025-03-11-patter-5
+    src: daily-2025-03-11-patter-5.jpg
+    title: ''
+  - name: daily-2025-03-11-patter-6
+    src: daily-2025-03-11-patter-6.jpg
+    title: ''
+  - name: daily-2025-03-12-patter-1
+    src: daily-2025-03-12-patter-1.jpg
+    title: ''
+  - name: daily-2025-03-12-patter-2
+    src: daily-2025-03-12-patter-2.jpg
+    title: ''
+  - name: daily-2025-03-12-patter-3
+    src: daily-2025-03-12-patter-3.jpg
+    title: ''
+  - name: daily-2025-03-12-patter-4
+    src: daily-2025-03-12-patter-4.jpg
+    title: ''
+  - name: daily-2025-03-12-patter-5
+    src: daily-2025-03-12-patter-5.jpg
+    title: ''
+  - name: daily-2025-03-12-patter-6
+    src: daily-2025-03-12-patter-6.jpg
+    title: ''
+  - name: daily-2025-03-13-patter-1
+    src: daily-2025-03-13-patter-1.jpg
+    title: ''
+  - name: daily-2025-03-13-patter-2
+    src: daily-2025-03-13-patter-2.jpg
+    title: ''
+  - name: daily-2025-03-13-patter-3
+    src: daily-2025-03-13-patter-3.jpg
+    title: ''
+  - name: daily-2025-03-13-patter-4
+    src: daily-2025-03-13-patter-4.jpg
+    title: ''
+  - name: daily-2025-03-13-patter-5
+    src: daily-2025-03-13-patter-5.jpg
+    title: ''
+  - name: daily-2025-03-13-patter-6
+    src: daily-2025-03-13-patter-6.jpg
+    title: ''
+  - name: daily-2025-03-14-patter-1
+    src: daily-2025-03-14-patter-1.jpg
+    title: ''
+  - name: daily-2025-03-14-patter-2
+    src: daily-2025-03-14-patter-2.jpg
+    title: ''
+  - name: daily-2025-03-14-patter-3
+    src: daily-2025-03-14-patter-3.jpg
+    title: ''
+  - name: daily-2025-03-14-patter-4
+    src: daily-2025-03-14-patter-4.jpg
+    title: ''
+  - name: daily-2025-03-14-patter-5
+    src: daily-2025-03-14-patter-5.jpg
+    title: ''
+  - name: daily-2025-03-14-patter-6
+    src: daily-2025-03-14-patter-6.jpg
+    title: ''
+  - name: daily-2025-03-17-family-fun-fair
+    src: daily-2025-03-17-family-fun-fair.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
