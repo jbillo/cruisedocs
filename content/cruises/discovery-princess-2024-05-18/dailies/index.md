@@ -1,56 +1,50 @@
 ---
 title: Dailies
+cruise: Discovery Princess, 2024-05-18
 cruise_slug: discovery-princess-2024-05-18
 resources:
-    - name: daily-2024-05-18-event-listings-1
-      src: "daily-2024-05-18-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-18-event-listings-2
-      src: "daily-2024-05-18-event-listings-2.jpg"
-      title: ""
-
-    - name: daily-2024-05-19-event-listings-1
-      src: "daily-2024-05-19-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-19-event-listings-2
-      src: "daily-2024-05-19-event-listings-2.jpg"
-      title: ""
-
-    - name: daily-2024-05-20-event-listings-1
-      src: "daily-2024-05-20-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-20-event-listings-2
-      src: "daily-2024-05-20-event-listings-2.jpg"
-      title: ""
-
-    - name: daily-2024-05-21-event-listings-1
-      src: "daily-2024-05-21-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-21-event-listings-2
-      src: "daily-2024-05-21-event-listings-2.jpg"
-      title: ""
-
-    - name: daily-2024-05-22-event-listings-1
-      src: "daily-2024-05-22-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-22-event-listings-2
-      src: "daily-2024-05-22-event-listings-2.jpg"
-      title: ""
-
-    - name: daily-2024-05-23-event-listings-1
-      src: "daily-2024-05-23-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-23-event-listings-2
-      src: "daily-2024-05-23-event-listings-2.jpg"
-      title: ""
-
-    - name: daily-2024-05-24-event-listings-1
-      src: "daily-2024-05-24-event-listings-1.jpg"
-      title: ""
-    - name: daily-2024-05-24-event-listings-2
-      src: "daily-2024-05-24-event-listings-2.jpg"
-      title: ""
-
+  - name: daily-2024-05-18-event-listings-1
+    src: daily-2024-05-18-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-18-event-listings-2
+    src: daily-2024-05-18-event-listings-2.jpg
+    title: ''
+  - name: daily-2024-05-19-event-listings-1
+    src: daily-2024-05-19-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-19-event-listings-2
+    src: daily-2024-05-19-event-listings-2.jpg
+    title: ''
+  - name: daily-2024-05-20-event-listings-1
+    src: daily-2024-05-20-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-20-event-listings-2
+    src: daily-2024-05-20-event-listings-2.jpg
+    title: ''
+  - name: daily-2024-05-21-event-listings-1
+    src: daily-2024-05-21-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-21-event-listings-2
+    src: daily-2024-05-21-event-listings-2.jpg
+    title: ''
+  - name: daily-2024-05-22-event-listings-1
+    src: daily-2024-05-22-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-22-event-listings-2
+    src: daily-2024-05-22-event-listings-2.jpg
+    title: ''
+  - name: daily-2024-05-23-event-listings-1
+    src: daily-2024-05-23-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-23-event-listings-2
+    src: daily-2024-05-23-event-listings-2.jpg
+    title: ''
+  - name: daily-2024-05-24-event-listings-1
+    src: daily-2024-05-24-event-listings-1.jpg
+    title: ''
+  - name: daily-2024-05-24-event-listings-2
+    src: daily-2024-05-24-event-listings-2.jpg
+    title: ''
 ---
 
 {{< include file="_includes/click-to-expand.md" type="page" >}}
