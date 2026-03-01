@@ -52,14 +52,24 @@ params:
         label: Cruises
         # identifier_field: title  # default
         folder: "content/cruises"
-        path: "{{slug}}-{{cruise_year}}-{{cruise_month}}-{{cruise_day}}/_index"
+        path: "{{slug}}-{{cruise_start_date}}/_index"
         create: true
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Cruise Year", name: "cruise_year", widget: "string"}
-          - {label: "Cruise Month", name: "cruise_month", widget: "string"}
-          - {label: "Cruise Day", name: "cruise_day", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Cruise Start Date"
+            name: "cruise_start_date"
+            widget: "datetime"
+            type: "date"
+          - label: "Cruise End Date"
+            name: "cruise_end_date"
+            widget: "datetime"
+            type: "date"
+            required: false
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
 
       - name: dailies
         folder: "content/cruises"
@@ -79,6 +89,7 @@ params:
           search_fields:
             - title
           display_fields:
+            # - cruise_year
             - title
           value_field: title
         - label: "Body"
