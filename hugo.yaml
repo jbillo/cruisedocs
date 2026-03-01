@@ -65,23 +65,22 @@ params:
         folder: "content/cruises"
         label: "Dailies"
         path: "{{cruise_slug}}/dailies/index"
-        identifier_field: cruise_slug
+        identifier_field: cruise
         create: true
         fields:
         - label: "Title"
           name: "title"
-          widget: "string"
+          widget: "hidden"
+          default: "Dailies"
         - label: "Cruise"
-          name: "cruise_slug"
+          name: "cruise"
           widget: "relation"
           collection: "cruises"
           search_fields:
-            - slug
             - title
           display_fields:
-            - slug
             - title
-          value_field: slug
+          value_field: title
         - label: "Body"
           name: "body"
           widget: "markdown"
