@@ -1,0 +1,33 @@
+{{- /*
+This is a custom render-image shortcode that adds a link to the image if it has the cruiseimage class.
+Also use some of the niceties from the image rendering shortcode in themes/hugo-geekdoc/layouts/shortcodes/img.html:
+* Lazy loading already disabled in hugo.yaml
+* put in a <div> around the image with the right classes
+* small = 600x, link to the larger image
+*/ -}}
+{{- $cruiseimage := false -}}
+{{- if in .Attributes.class "cruiseimage" -}}
+{{ $cruiseimage = true -}}
+{{- end -}}
+{{- if $cruiseimage -}}
+    {{ $source := .Page.Resources.Get .Destination -}}
+    {{ $small := ($source.Resize "600x").Permalink }}
+    <div class="flex justify-center">
+        <figure class="gdoc-markdown__figure">
+            <a href="{{ .Destination | safeURL }}">
+                <picture>
+                    <source srcset="{{ $small }}" />
+{{- end -}}
+<img
+  src="{{ .Destination | safeURL }}"
+  alt="{{ .Text }}"
+  {{ with .Title }}title="{{ . }}"{{ end }}
+  {{ with .Attributes.class }}class="{{ . }}"{{ end }}
+/>
+{{- if $cruiseimage -}}
+                </picture>
+            </a>
+        </figure>
+    </div>
+{{- end -}}
+{{- /* Drop trailing newlines */ -}}

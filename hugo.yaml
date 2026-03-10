@@ -31,6 +31,11 @@ markup:
     renderer:
       # Needed for mermaid shortcode
       unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+      wrapStandAloneImageWithinParagraph: false  # required so the image tag gets the Markdown attributes: https://gohugo.io/render-hooks/images/
   tableOfContents:
     startLevel: 1
     endLevel: 9
@@ -41,6 +46,7 @@ taxonomies:
 params:
   geekdocRepo: https://github.com/jbillo/cruisedocs
   geekdocEditPath: edit/main
+  geekdocImageLazyLoading: false
   headless_cms:
     engine: "sveltia"
     site_url: "https://cruisedocs.billo.ca"
