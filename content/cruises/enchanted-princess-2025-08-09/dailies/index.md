@@ -167,6 +167,26 @@ cruise: Enchanted Princess, 2025-08-09
 ![](daily-2025-08-16-patter-6.jpg)
 {class="cruiseimage"}
 
+## 2025-08-17: Princess Patter, Day 9 (Martinique)
+
+![](daily-2025-08-17-patter-1.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-17-patter-2.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-17-patter-3.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-17-patter-4.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-17-patter-5.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-17-patter-6.jpg)
+{class="cruiseimage"}
+
 ## 2025-08-18: Princess Patter, Day 10 (St. Kitts)
 
 ![](daily-2025-08-18-patter-1.jpg)
