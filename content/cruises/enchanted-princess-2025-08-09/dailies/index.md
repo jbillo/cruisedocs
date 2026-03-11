@@ -167,6 +167,26 @@ cruise: Enchanted Princess, 2025-08-09
 ![](daily-2025-08-20-patter-6.jpg)
 {class="cruiseimage"}
 
+## 2025-08-21: Princess Patter, Day 13 (At Sea)
+
+![](daily-2025-08-21-patter-1.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-21-patter-2.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-21-patter-3.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-21-patter-4.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-21-patter-5.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-21-patter-6.jpg)
+{class="cruiseimage"}
+
 ## 2025-08-23: Princess Patter, Day 15 (At Sea)
 
 ![](daily-2025-08-23-patter-1.jpg)
