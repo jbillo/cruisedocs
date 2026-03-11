@@ -47,6 +47,26 @@ cruise: Enchanted Princess, 2025-08-09
 ![](daily-2025-08-11-patter-6.jpg)
 {class="cruiseimage"}
 
+## 2025-08-13: Princess Patter, Day 5 (Bonaire)
+
+![](daily-2025-08-13-patter-1.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-13-patter-2.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-13-patter-3.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-13-patter-4.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-13-patter-5.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-13-patter-6.jpg)
+{class="cruiseimage"}
+
 ## 2025-08-19: Princess Patter, Day 11 (San Juan)
 
 ![](daily-2025-08-19-patter-1.jpg)
