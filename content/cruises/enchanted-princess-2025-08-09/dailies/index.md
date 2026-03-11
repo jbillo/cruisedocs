@@ -7,6 +7,26 @@ cruise: Enchanted Princess, 2025-08-09
 
 {{< toc >}}
 
+## 2025-08-09: Princess Patter, Day 1 (Fort Lauderdale)
+
+![](daily-2025-08-09-patter-1.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-09-patter-2.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-09-patter-3.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-09-patter-4.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-09-patter-5.jpg)
+{class="cruiseimage"}
+
+![](daily-2025-08-09-patter-6.jpg)
+{class="cruiseimage"}
+
 ## 2025-08-10: Princess Patter, Day 2 (At Sea)
 
 ![](daily-2025-08-10-patter-1.jpg)
